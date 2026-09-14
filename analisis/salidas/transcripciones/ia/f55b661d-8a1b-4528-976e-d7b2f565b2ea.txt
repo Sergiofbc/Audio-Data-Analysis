@@ -1,0 +1,43 @@
+[00:01] speaker_0: Aló.
+[00:03] speaker_1: Aló, muy buenos días.
+[00:07] speaker_0: Aló, buenos días.
+[00:09] speaker_1: Buenas. Por favor,
+[00:09] speaker_0: [CENSURADO]
+[00:11] speaker_0: Sí, con él habla.
+[00:13] speaker_1: Señor Pino, le habla Ricardo, del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación con System Group. ¿Cómo me le va, señor Pino?
+[00:23] speaker_0: Pues, eh, ahí, eh, digamos que más o menos, amigo. Más o [CENSURADO] lo, lo escucho [CENSURADO] .
+[00:32] speaker_1: [CENSURADO] La deuda se originó con Credivalores, Crediservicios S.A., pero [CENSURADO] es la entidad dueña de la misma, por un monto total de dos millones ochocientos cincuenta mil pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento, y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. Señor Pino, ¿me permite comentarle sobre la propuesta de pago que le tenemos?
+[00:57] speaker_0: Claro, la escucho.
+[00:59] speaker_1: Excelente, señor Pino. Queremos ofrecerle un descuento del doce por ciento de toda la deuda. Con el descuento, ya no debería dos millones ochocientos cincuenta mil pesos, sino solo dos millones quinientos mil pesos. Señor Pino, es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?
+[01:20] speaker_0: Eh, mire, [CENSURADO] , todo, todo lo que sea, eh, pues que sea, eh, un, un, un acuerdo para bien y sobre todo si beneficia, eh, sería, sería, eh, bienvenido. Pero lo que pasa es que en ese momento, en este momento, yo le digo a usted que sí, yo no tengo, yo no tengo, eh, esa plata. Entonces, co-- entonces, si, eh, una persona seria y coherente no, no, no se va a poner, eh, o no se va a poner a, a, a engañar a, a otra persona, ¿ya? O por salir del paso ni nada de eso, ¿ya? Di-dí-dígame cómo puedo yo irles abonando y, y yo, y yo, y yo me, y yo me comprometo, pero esa, esa, sí, esa plata yo, yo no la tengo porque pues yo no tengo en este momento un, un trabajo estable.
+[02:00] speaker_1: Señor Pino, le agradezco la honestidad. Eso habla muy bien de usted. Precisamente para eso tenemos la opción de pagarlo en dos cuotas. ¿Le explico cómo funcionaría?
+[02:09] speaker_0: Dígame, dí-dígame, por favor.
+[02:15] speaker_1: Con la opción de dos cuotas, cada cuota sería de un millón doscientos cincuenta mil pesos. La primera a más tardar el 26 de julio y la segunda un mes después. ¿Le sería posible comprometerse con ese valor por cuota, señor Pino?
+[02:28] speaker_0: Pero, pero es que vuelvo y le digo [CENSURADO] no, es decir, de-dem-deme, de-de-deme un, un abono razonable, ¿no es cierto? Ra-ra-ra-razonable. Porque, pues si yo le doy a usted un, un millón, pues yo, yo tengo, yo sostengo dos casas. Eh, señor, que es la de mi mamá, una, una-- y una mujer que tiene noventa y dos años y está en estos momentos, eh, tiene una [CENSURADO] está ciega por un trauma que recibió en la cabeza, ¿no es cierto?, ¿ya? Y, y, y mi, y mi casa. Entonces, por eso, por eso le digo, yo toda esa plata no la, no la tengo. Yo sí quiero, ¿no es cierto? Y yo no pretendo jamás en un momento, eh, eludir la deuda ni nada de eso. Pero si usted-- pero pues, eh, no, no, lo que yo me gano no me da para, para todo eso, ¿ya? Dígame, dígame una cuota, eh, moderada que yo le, que yo le pueda decirle: "Sí, me comprometo", y, y tal día le doy, le hago el primer, eh, le hago el primer abono, eh, ya, pero una cuota que sea mo-moderada, que esté a mis posibilidades.
+[03:21] speaker_1: Señor Pino, entiendo perfectamente su situación y le agradezco su transparencia. Lamentablemente, las dos cuotas que le presenté son la única opción disponible y aprobada que tenemos para usted hoy. Señor Pino, entiendo. Sin embargo, con este descuento del doce por ciento, su deuda a solo dos millones quinientos mil pesos y puede pagarla hasta en dos cuotas. Señor Pino, es el mejor descuento que creo podría conseguir sobre esta deuda. ¿Desea reconsiderarlo? Por favor, indíqueme con un sí o no.
+[03:47] speaker_0: Deje-- de-- eh, déjeme, eh, voy a reconsiderar si, si, si lo-- si puedo, eh, evolucionar y, y, y conseguir, eh, esa plata para hacer un préstamo, ¿oyó?
+[03:59] speaker_1: Claro, señor Pino, con gusto. ¿En qué fecha le puedo volver a llamar para retomar esta gestión? Siento que estas opciones no le sirvan, pero tranquilo, puedo proponerle otra cosa. Le puedo ofrecer un acuerdo de largo plazo. No habría descuento, pero usted puede poner el valor de la cuota. Con esto se para cualquier proceso legal y sobre todo la llamadera. Para dejar registro, ¿cuánto sería lo máximo que podría pagar mes a mes que se acomode a su presupuesto?
+[04:22] speaker_0: Eh, yo le, yo le puedo dar a usted, eh, entre doscientos cincuenta y trescientos mil pesos le puedo dar mensual. Le-- eh, ¿está bien esa cuota?
+[04:33] speaker_1: Señor Pino, me alegra mucho que me diga eso. Entonces, confirmamos el acuerdo en doscientos cincuenta mil pesos mensuales, ¿o podría comprometerse-
+[04:40] speaker_0: A ver, válido. Si yo puedo comprometerme a más, para mí mejor pagar, pagar lo más rápido posible saldría de la deuda, pero mínimo, como mínimo cuente doscientos cincuenta mil pesos, por favor.
+[04:53] speaker_1: Perfecto, señor Pino. Confirmamos el acuerdo en doscientos cincuenta mil pesos mensuales. ¿Le queda bien que la primera cuota sea el 26 de julio? Me alegra que lleguemos a este acuerdo de largo plazo y que pueda aprovechar esta oportunidad, señor Pino. ¿Me autoriza a enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp? ¿Señor Pino?
+[05:10] speaker_0: Eh, sí, sí, pero entonces hagamos una cosa, [CENSURADO] para, para, para darle más seguridad, ¿no es cierto?, ya, y, y no fallarle, eh, le-- déjeme, deje, déjeme, deme plazo hasta, hasta el, el 31, ¿ya? De-- para-- porque es que nos vie-- ahí es donde nos vienen pagando, el 31 primero, para yo no quedarle mal. Ya imagina, estamos arreglando algo y el 26, no es cierto, que yo le quede mal, ¿cómo quedo yo? No, no, no. Entonces, entonces, a la fija, a la fija, me comprometo a que el, el, el, eh, a más tardar, a más tardar el, el, el primero tie-tiene ya el, el abono y me manda la-- dónde debo, debo consignar y todo eso.
+[05:50] speaker_1: Perfecto, señor Pino, entiendo completamente. Confirmamos entonces que la primera cuota de doscientos cincuenta mil pesos la haría a más tardar el 31 de julio. Ahora necesito confirmar algunos datos para completar el acuerdo. ¿Me puede proporcionar un número de-
+[06:05] speaker_0: Aló
+[06:08] speaker_1: ¿Me puede proporcionar un número de teléfono alternativo donde lo podamos contactar, señor Pino?
+[06:12] speaker_0: No, e-e-este es mi número, este es mi número, eh, es [CENSURADO] este es mi número y yo, yo siempre contesto las llamadas y todo eso, ¿ya?
+[06:23] speaker_1: Entiendo, señor Pino. ¿Y tiene algún otro número donde también lo podamos ubicar? Como un número de familiar.
+[06:27] speaker_0: No, no, no. No, no, no. No. No, eh, pe, eh, pero es familiar, sí, pero pues yo no vivo, yo no vivo con ellos y entonces, pues eso y nada es lo mismo, ¿no es cierto? No, [CENSURADO] , eh, cuén-- llámeme, ¿no es cierto? Que este, que a este número me puede contactar y no hay ningún problema por eso. Si hubiera sido así, no le hubiera contestado.
+[06:48] speaker_1: Perfecto, señor Pino, queda solo este número entonces. ¿Me puede confirmar su correo electrónico?
+[06:53] speaker_0: Eh, dapise@hotmail.com. Yo me llamo [CENSURADO] . Es dapise@hotmail.com.
+[07:05] speaker_1: Perfecto, dapise@hotmail.com confirmado. Ahora necesito confirmar su dirección completa, incluyendo la ciudad, señor Pino.
+[07:12] speaker_0: Ah, bueno. Eh,
+[07:14] speaker_0: calle diecisiete.
+[07:19] speaker_1: Sí, señor Pino, continúe, por favor.
+[07:21] speaker_0: Número, no, eh, calle diecisiete, número, eh, veintiocho A cuarenta y cin-- eh, veintiocho A.
+[07:30] speaker_1: Perfecto. ¿Y la ciudad, señor Pino?
+[07:32] speaker_0: Tulua.
+[07:35] speaker_1: Excelente, Tulua confirmado. Y por último, ¿por qué canal prefiere que lo contactemos primero? ¿Llamada, WhatsApp o correo electrónico?
+[07:42] speaker_0: No, no, no, no, y la llamada, la llamada es más-- la información es más, es más directa y más rá-- y más rápida, ¿ya?
+[07:50] speaker_1: Señor Pino, para finalizar le informo que esta llamada fue grabada y monitoreada. Todos los datos acá compartidos serán analizados y tratados bajo la ley quince ochenta y uno de 2012. Enviaremos la documentación próximamente. Que tenga un buen día, señor Pino. Hasta luego.
+[08:04] speaker_0: [CENSURADO] eh, por esta

@@ -1,0 +1,18 @@
+[00:05] speaker_1: Aló, buenas tardes.
+[00:07] speaker_2: [CENSURADO] por favor.
+[00:08] speaker_1: [CENSURADO] Sí, con ella.
+[00:11] speaker_2: [CENSURADO] está? Le está hablando Daniela. Me estoy comunicando de soluciones [CENSURADO] el tema de un compromiso de pago que se tenía para el treinta de junio por trescientos mil pesos. Es que el pago no me registró en el sistema. Quisiera confirmar con usted si sí pudo realizar el pago.
+[00:26] speaker_1: Sí, señora. Lo que pasa es que no, no, no pude hacer el pago porque se me presentó una calamidad, entonces no pude.
+[00:34] speaker_2: Comprendo, señora.
+[00:35] speaker_1: Buenas.
+[00:36] speaker_2: Entonces, en este caso, ¿cuándo realizaríamos el pago?
+[00:39] speaker_1: Eh, pues yo lo tengo programado para realizarlo el quince, pues porque como a mí me pagan quincenal, entonces por eso.
+[00:47] speaker_2: [CENSURADO] para el quince de julio, ¿correcto?
+[00:49] speaker_1: Sí, señora. Sí, señora.
+[00:51] speaker_2: Listo. Perfecto [CENSURADO] Pues vamos a dejar acá la anotación en el sistema. Quisiera confirmar con usted si tiene presente los medios de pago o gustaría que le envíe la información de los mismos.
+[01:01] speaker_1: Dice. Sí, señora. Sí, me lo puede enviar, por favor.
+[01:04] speaker_2: Listo, ¿ese mismo número [CENSURADO] ?
+[01:06] speaker_1: Sí, sí, señora.
+[01:07] speaker_2: Perfecto, [CENSURADO] . Entonces quedo atenta al envío del comprobante y le agradezco por haber atendido mi llamada. Tengo un excelente día.
+[01:12] speaker_1: Bueno, sí señora. Muchas gracias. Buenas
+[01:15] speaker_1: tardes.

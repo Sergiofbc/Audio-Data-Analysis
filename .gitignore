@@ -1,0 +1,24 @@
+# Secretos
+.env
+*.env
+!.env.example
+
+# Entorno virtual
+.venv/
+
+# Audio en bruto (pesado, no debe subirse al repo)
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+
+# Cache de APIs (regenerable localmente con las claves propias)
+analisis/cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,58 @@
+[00:00] speaker_0: Aló.
+[00:03] speaker_1: Aló, muy buenos días.
+[00:05] speaker_0: Buen día.
+[00:07] speaker_1: ¿Podría confirmarme si estoy hablando [CENSURADO] ?
+[00:10] speaker_0: ¿De parte de?
+[00:13] speaker_1: Señor Fry, le [CENSURADO] del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación con Banco [CENSURADO] . ¿Cómo se encuentra?
+[00:24] speaker_0: Sí, señor. Bien. Un poquito ocupado trabajando. Dígame.
+[00:30] speaker_0: Aló.
+[00:33] speaker_1: Entiendo perfectamente-
+[00:36] speaker_0: Aló.
+[00:36] speaker_1: Sí, señor Fry. Disculpe. Le decía que entiendo que está ocupado trabajando. ¿Me permite contarle sobre una propuesta de alivio financiero que tenemos disponible para su obligación?
+[00:45] speaker_0: Claro, cuénteme.
+[00:48] speaker_1: Perfecto, señor Fry. Tenemos una excelente propuesta con un descuento significativo sobre su deuda. Le voy a presentar los detalles exactos del beneficio que podemos ofrecerle ahora mismo: propuesta de-
+[00:57] speaker_0: Okey.
+[00:59] speaker_1: Disculpe, señor Fry, no le entendí bien esa parte.
+[01:03] speaker_0: ¿Aló?
+[01:05] speaker_1: Sí, señor Fry, lo escucho. ¿Podría repetirme lo que me-
+[01:09] speaker_0: Sí, dígame.
+[01:09] speaker_1: Perfecto.
+[01:09] speaker_0: No, no, no, no, no dije nada. Estaba hablando con una jefa.
+[01:15] speaker_1: Ah, perfecto. Entiendo, señor Fry. ¿Me permite entonces presentarle la propuesta de alivio financiero que tenemos para usted?
+[01:22] speaker_0: Dígame.
+[01:24] speaker_1: Excelente. Le presento nuestra propuesta. Su deuda actual es de un millón doscientos setenta mil pesos. Tenemos autorizado ofrecerle un descuento del veintitrés por ciento sobre el capital, lo que representa un ahorro de trescientos mil pesos. Con este descuento, usted pagaría novecientos ochenta mil pesos en total. Le ofrecemos las siguientes opciones de pago:
+[01:45] speaker_1: una cuota de novecientos ochenta mil pesos, dos cuotas de cuatrocientos noventa mil pesos cada una, tres cuotas de trescientos treinta mil pesos cada una. La primera cuota debe pagarse antes del 31 de agosto. ¿Cuál opción le conviene más, señor Fry?
+[02:00] speaker_0: O sea, la máxima son tres cuotas.
+[02:04] speaker_1: Perfecto, señor Fry. Entonces, quedamos en tres cuotas de-
+[02:07] speaker_0: No, no. Te estoy preguntando, te estoy preguntando. Que si la máxima son tres cuotas.
+[02:12] speaker_1: Exacto, señor Fry. Así es.
+[02:13] speaker_0: ¿De cuánto?
+[02:16] speaker_1: Claro, ya le doy los números exactos. La opción de tres cuotas es de trescientos treinta mil pesos cada una. Esto le da la flexibilidad que necesi-
+[02:24] speaker_0: Dame un segundo que anotar.
+[02:25] speaker_1: Por supuesto, señor Fry. Tome el tiempo que necesite.
+[02:28] speaker_0: Dame un segundo.
+[02:32] speaker_1: Perfecto. Estoy aquí esperándolo.
+[02:42] speaker_1: ¿Señor Fry?
+[02:44] speaker_0: Me dices que tres cuotas.
+[02:47] speaker_1: Sí, señor Fry.
+[02:48] speaker_0: ¿De cuánto?
+[02:48] speaker_1: Tres cuotas
+[02:50] speaker_1: de trescientos treinta mil pesos cada cuota.
+[02:56] speaker_0: . Okey, ¿para qué día sería la primera? Me dices el 31 de agosto, ¿sí?
+[03:03] speaker_1: Exacto, señor Fry. La primera cuota sería a más tardar el 31 de agosto. ¿Le parece bien esta opción de tres cuotas?
+[03:10] speaker_0: Sí.
+[03:12] speaker_1: Perfecto, señor Fry. Para confirmar el acuerdo, son tres cuotas de trescientos treinta mil pesos cada una, para un total de novecientos ochenta mil pesos. Con la primera cuota el 31 de agosto. ¿Está de acuerdo con estos términos?
+[03:26] speaker_0: Sí.
+[03:34] speaker_1: Excelente, señor Fry. ¿Y las otras dos cuotas para qué fechas las programamos?
+[03:40] speaker_0: Eh, yo creería que me quedaría mejor igual día treinta y uno, treinta y uno de mes.
+[03:46] speaker_1: Perfecto, señor Fry. Entonces, quedamos así: primera cuota el 31 de agosto, segunda cuota el 30 de septiembre y tercera cuota el 31 de octubre. ¿Le confirmo estas fechas?
+[03:58] speaker_0: Sí.
+[04:05] speaker_1: Señor Fry, ¿sigue ahí? ¿Le confirmo estas fechas para las cuotas?
+[04:09] speaker_0: Sí, señor.
+[04:12] speaker_1: Excelente, señor Fry. Su acuerdo queda confirmado. Tres cuotas de trescientos treinta mil pesos cada una. La primera el 31 de agosto, la segunda el 30 de septiembre y la tercera el 31 de octubre. ¿Necesita que le enviemos algún recordatorio o tiene alguna pregunta adicional?
+[04:29] speaker_0: Eh, digamos, ¿este acuerdo se enviaría por mediante qué? ¿Correo, WhatsApp? ¿Cómo me puedo cerciorar yo que si me están es-- llamando del banco?
+[04:41] speaker_1: Señor Fry, entiendo su preocupación. Le comento que soy un asistente virtual automatizado [CENSURADO] que es la empresa que maneja su cartera. El acuerdo se documenta directamente en nuestro sistema cuando usted confirma los términos, como acabamos de hacer. Para cualquier consulta sobre el acuerdo, puede comunicarse directamente con nosotros. ¿Tiene alguna otra pregunta sobre el proceso de pago?
+[05:02] speaker_0: No.
+[05:04] speaker_1: Perfecto, señor Fry. Su acuerdo está confirmado entonces. Entonces, muchas gracias por su tiempo y que tenga un excelente día.
+[05:13] speaker_0: Vale, gracias.
+[05:17] speaker_0: Aló.

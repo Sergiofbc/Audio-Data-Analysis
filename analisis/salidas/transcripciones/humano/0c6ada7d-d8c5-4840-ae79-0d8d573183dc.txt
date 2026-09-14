@@ -1,0 +1,5 @@
+[00:40] speaker_0: Después del tono, grabe su mensaje
+[01:44] speaker_0: . Su grabación llegó al tiempo límite. Para editar, marque uno. Para enviar, marque dos. Para las opciones de entrega, marque tres.
+[01:57] speaker_0: Para editar, marque uno. Para enviar, marque dos. Para las opciones de entrega, marque tres.
+[02:09] speaker_0: Para editar, marque uno. Para enviar, marque dos. Para las opciones de entrega, marque tres.
+[02:20] speaker_0: Adiós

@@ -1,0 +1,37 @@
+[00:11] speaker_0: Buenos días, tengo el gusto de hablar con el [CENSURADO] .
+[00:15] speaker_1: Sí, con él.
+[00:16] speaker_0: Mucho gusto, habla con [CENSURADO] casa de cobranza autorizada por Credivalores. ¿Cómo se encuentra el día de hoy?
+[00:24] speaker_1: Sí.
+[00:26] speaker_0: Señor Mas, el día de hoy me estoy comunicando referente a su obligación con Credivalores para validar si usted realizó el pago según acuerdo de pago que tenía.
+[00:36] speaker_1: No, mi amor, no me sirvió ese acuerdo de pago.
+[00:39] speaker_0: ¿Por qué, señor Mas? Usted llegó a un acuerdo de un pago único de siete millones cuatrocientos diez mil para [CENSURADO] y salvo.
+[00:46] speaker_1: Porque no tengo los siete millones en este momento.
+[00:50] speaker_0: Comprendo, señor Mas. O sea que desea un acuerdo a largo plazo para pagar a cuotas para que le quede facilidad de pago.
+[00:58] speaker_1: ¿Y cómo sería?
+[01:01] speaker_0: De acuerdo, señor Mas. El máximo que nos dejan dividirlo son doce cuotas para que se le quede facilidad de pago.
+[01:09] speaker_0: El valor de su obligación está en siete millones
+[01:13] speaker_0: quinientos setenta y seis mil cuatrocientos pesos.
+[01:17] speaker_1: Ajá.
+[01:18] speaker_0: Dividido en doce cuotas, cada cuota le quedaría por seiscientos treinta y dos mil pesos.
+[01:24] speaker_0: ¿Está usted de acuerdo, señor Mas?
+[01:27] speaker_1: No, no me da, porque yo en estos momentos estoy... desempleado.
+[01:32] speaker_0: Comprendo, señor Mas. ¿Y por qué anteriormente llegó a un acuerdo de pago de siete millones cuatrocientos?
+[01:39] speaker_1: Porque estaba ocupado y casi ni entendía lo que me decían. Había una calamidad y no entendía casi nada lo que me decían. Yo por salir rápido de la llamada.
+[01:48] speaker_0: Señor Mas, ¿y cuánto se podría usted comprometer a pagarme esa mes? Lo podríamos validar con comité.
+[01:57] speaker_1: ¿Cuánto?
+[02:00] speaker_0: Sí, sí, señor. ¿Cuánto se puede comprometer a pagar usted mes a mes y lo podríamos validar con comité?
+[02:08] speaker_1: Mmm...
+[02:12] speaker_1: Para no quedarles mal, como...
+[02:17] speaker_1: Le podría apoyar doscientos mil pesos mensuales.
+[02:23] speaker_0: Sería muy bajita las cuotas y no, no lo aprobaría el comité, [CENSURADO] .
+[02:28] speaker_1: Entonces dígame cuánto sería lo mínimo.
+[02:32] speaker_0: Podríamos pasar por comité trescientos cincuenta mil [CENSURADO] podría comprometerse a pagar eso?
+[02:39] speaker_1: ¿Y trescientos?
+[02:45] speaker_0: Comprendo. Voy a pasarlo por comité por trescientos, señor Mas, y apenas tenga una respuesta, yo me comunico nuevamente. ¿Para qué día usted realizaría el primer pago?
+[02:56] speaker_1: Primeros días del mes.
+[03:00] speaker_0: O sea que, eh, antes del 30 de julio usted no podría realizar ningún pago.
+[03:03] speaker_1: No, mi amor, no me comprometo. Desde el primero al cinco, sí.
+[03:08] speaker_0: Comprendo, señor Mas, por su situación voy a pasarlo por comité para los primeros días de agosto, a más tardar el día 5 de agosto, la primer cuota.
+[03:18] speaker_1: Okey.
+[03:19] speaker_0: De acuerdo, señor Mas. Apenas tenga una respuesta, me comunico nuevamente con usted. Que tenga un excelente [CENSURADO] [CENSURADO]
+[03:29] speaker_0: .

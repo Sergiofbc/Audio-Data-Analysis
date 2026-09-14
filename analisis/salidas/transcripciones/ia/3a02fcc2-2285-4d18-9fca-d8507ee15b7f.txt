@@ -1,0 +1,46 @@
+[00:00] speaker_0: [CENSURADO]
+[00:03] speaker_0: Aló.
+[00:03] speaker_1: Aló.
+[00:03] speaker_0: Muy buenos días.
+[00:05] speaker_1: Buenas tardes.
+[00:07] speaker_0: Buenas tardes. Por favor, [CENSURADO] sea.
+[00:11] speaker_1: Jader.
+[00:12] speaker_0: [CENSURADO] [CENSURADO] Le llamo por motivo de su obligación [CENSURADO] referente a un producto crediticio castigado. Lo llamo del área de embargos, judicializaciones y alivios financieros. ¿Cómo me le vas [CENSURADO] ?
+[00:27] speaker_0: [CENSURADO] La deuda fue adquirida [CENSURADO] , quienes la compraron [CENSURADO] . El monto total actual es de ochocientos ochenta mil pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento, y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. [CENSURADO] ¿Me permite comentarle sobre la propuesta de pago que le tenemos?
+[00:47] speaker_0: ¿Entiendo, señor [CENSURADO] ? Si tiene dudas sobre la deuda o el proceso, por favor indíqueme cuáles son para poder orientarle mejor. ¿En qué puedo ayudarle?
+[00:59] speaker_1: ¿Aló?
+[01:01] speaker_0: [CENSURADO] Si tiene dudas sobre la deuda o el proceso, por favor indíqueme cuáles son para poder orientarle mejor. ¿En qué puedo ayudarle?
+[01:07] speaker_1: No la conoce a Javier Zapata.
+[01:10] speaker_0: [CENSURADO] Le confirmo que la llamada es por motivo de una deuda pendiente [CENSURADO] , la cual ahora es propiedad de-
+[01:15] speaker_1: Deuda con BVD.
+[01:19] speaker_0: [CENSURADO] La deuda fue adquirida [CENSURADO] quienes la compraron [CENSURADO] . El monto total actual es de ochocientos ochenta mil pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. [CENSURADO] ¿Me permite comentarle sobre la propuesta...? [CENSURADO] Entiendo que pueda tener dudas. ¿Podría indicarme específicamente qué es lo que no sabe o qué le gustaría aclarar? Estoy aquí para ayudarle y explicarle todo lo necesario.
+[01:47] speaker_1: Eh, el [CENSURADO] Zapata ya no vive acá.
+[01:51] speaker_0: Entiendo.
+[01:52] speaker_1: Pero si quiere yo le doy bien la razón o el recado.
+[01:55] speaker_0: Señor, le agradezco su disposición, pero le informo que la deuda corresponde [CENSURADO] y no puedo realizar cambios en los datos de contacto.
+[02:02] speaker_1: ¿Javier Zapata? Ah, no, aquí [CENSURADO]
+[02:07] speaker_1: .
+[02:07] speaker_0: [CENSURADO] Disculpe la molestia. Si el [CENSURADO] sea se comunica con usted-
+[02:11] speaker_1: Jader, Jader es. Jader.
+[02:15] speaker_0: Perfecto, [CENSURADO] . Disculpe la confusión con el nombre. Como le comentaba, tengo una propuesta de pago muy favorable para usted. Podemos ofrecerle un descuento del veintisiete por ciento sobre el capital adeudado, lo que significa un ahorro de doscientos cuarenta mil pesos. El acuerdo sería por...
+[02:31] speaker_0: Excelente, [CENSURADO] . Con este descuento del veintisiete por ciento, usted pagaría seiscientos cincuenta mil pesos en lugar de los ochocientos ochenta mil pesos. Este pago se debe...
+[02:43] speaker_0: [CENSURADO] ¿Me permite terminar de explicarle los términos del acuerdo? Este pago de seiscientos cincuenta...
+[02:50] speaker_0: Perfecto. Este pago de seiscientos cincuenta mil pesos se debe realizar en una sola cuota a más tardar el once de junio de 2026, es decir, pasado mañana. ¿Está usted en condiciones de realizar este pago en esa fecha, [CENSURADO] ? Excelente.
+[03:04] speaker_1: [CENSURADO] un recado al, al [CENSURADO]
+[03:09] speaker_1: para que haga el pago por tardar pasado mañana.
+[03:14] speaker_0: [CENSURADO] El pago debe realizarse a más tardar el once de junio de 2026, es decir, pasado mañana. ¿Está usted en condiciones de realizar este pago de seiscientos cincuenta mil pesos en esa fecha?
+[03:24] speaker_1: Yo le paso el recado al [CENSURADO] para que haga el pago.
+[03:29] speaker_0: Disculpe, pero necesito confirmar que estoy hablando directamente con el [CENSURADO] [CENSURADO] es el [CENSURADO] ?
+[03:36] speaker_1: No.
+[03:37] speaker_0: Entiendo. Si usted no es el [CENSURADO] sea, no puedo continuar con esta conversación por temas de confidencialidad. [CENSURADO] directamente-
+[03:49] speaker_1: [CENSURADO] no se encuentra, ya no está viviendo acá, pero yo le paso el recado, ¿listo?
+[03:56] speaker_0: Entiendo, señor. Le agradezco su disposición para pasar el recado. Por favor, indíquele al [CENSURADO] sea que debe comunicarse urgentemente con nosotros para resolver su obligación pendiente. ¿Podría decirme cuándo sería posible que él nos contacte o cuándo podríamos ubicarlo directamente?
+[04:13] speaker_1: Eh, yo el día de hoy o mañana en la mañana le doy el recado para que se comunique con ustedes.
+[04:21] speaker_0: Perfecto, señor. Con gusto reagendamos para hablar directamente con el [CENSURADO] . Indíqueme, por favor, un día y hora exacta en la cual quiere que lo busquemos y si prefiere que lo contactemos telefónicamente o vía WhatsApp.
+[04:38] speaker_1: Eh,
+[04:40] speaker_1: como no he podido hablar con él, no le puedo dar una hora exacta.
+[04:45] speaker_0: Entiendo, señor. En ese caso, ¿sería posible que nos contacte mañana miércoles en la tarde una vez haya hablado con el [CENSURADO] para confirmar una hora específica?
+[04:52] speaker_1: Está bien. Sí, señor.
+[04:57] speaker_0: Perfecto, señor. Entonces, quedamos en que mañana miércoles en la tarde usted nos contactará para confirmar día y hora específica para hablar con el [CENSURADO] sea. Muchas gracias por su colaboración y que tenga muy buen día.
+[05:08] speaker_1: Hasta luego. Un gusto.
+[05:13] speaker_0: Igualmente.

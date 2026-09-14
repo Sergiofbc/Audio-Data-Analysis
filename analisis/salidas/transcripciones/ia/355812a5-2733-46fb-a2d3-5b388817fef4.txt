@@ -1,0 +1,26 @@
+[00:05] speaker_0: [CENSURADO] Muy buenos días.
+[00:11] speaker_0: ¿Podría confirmarme si estoy hablando [CENSURADO]
+[00:23] speaker_0: ?
+[00:25] speaker_0: [CENSURADO] escucha? ¿Podría confirmarme si es [CENSURADO]
+[00:32] speaker_0: ?
+[00:34] speaker_0: Sí, buenos días. Le llamo para confirmar si estoy hablando [CENSURADO] ¿Es usted?
+[00:46] speaker_0: [CENSURADO] ahí? [CENSURADO] si hablo [CENSURADO] para poder continuar.
+[00:58] speaker_0: [CENSURADO] escucha? Si no recibe respuesta, procederé a colgar y dejar nota de intento fallido. ¿Está usted ahí?
+[01:05] speaker_0: Gracias. [CENSURADO] Dado que su identidad ya ha sido validada anteriormente en este proceso, procedo a revisar el estado de su gestión para determinar el siguiente paso adecuado. [CENSURADO] Habla [CENSURADO] de parte [CENSURADO] . Anteriormente le llamamos para gestionar su deuda y llegar a un acuerdo de pago. Lo estamos llamando nuevamente para retomar este proceso. [CENSURADO]
+[01:33] speaker_0: [CENSURADO] . Queremos ofrecerle un descuento del dieciséis por ciento de toda la deuda.
+[01:39] speaker_0: Así le condonaríamos un total de ciento diez mil pesos.
+[01:43] speaker_0: Con el descuento ya no debería seiscientos cincuenta mil pesos, sino solo quinientos cuarenta mil pesos. Además, le puedo dejar la opción de pago aprobada por el sistema. Si queda en pago único, sería un solo pago de ciento ochenta mil pesos. Si queda en cuotas, el sistema le confirmará la cantidad exacta de cuotas y el valor de cada una. [CENSURADO] Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos este acuerdo de pago?
+[02:22] speaker_0: [CENSURADO] escucha? ¿Le interesa la propuesta de descuento que le acabo de mencionar?
+[02:39] speaker_0: [CENSURADO] . Le presento entonces la opción de pago aprobada para su acuerdo: un solo pago de quinientos cuarenta mil pesos con fecha límite el veintiuno de agosto de dos mil veintiséis. ¿Acepta esta opción?
+[02:54] speaker_0: Excelente. Perfecto, [CENSURADO] . Ya dejamos registrada la propuesta aceptada. Ahora voy a confirmar el envío de la información del acuerdo y los canales de pago por correo y WhatsApp.
+[03:14] speaker_0: [CENSURADO] Necesito pedirle algunos datos administrativos para enviarle la confirmación. ¿Tiene un número de teléfono alternativo donde podamos contactarlo?
+[03:31] speaker_0: [CENSURADO] escucha? [CENSURADO] Un número de teléfono alternativo para completar el registro del acuerdo.
+[03:42] speaker_0: Perfecto. ¿Cuál es ese número de...?
+[03:46] speaker_0: Gracias. Ahora...
+[03:50] speaker_0: Entendido, [CENSURADO] problema. ¿Me puede confirmar su correo electrónico?
+[04:02] speaker_0: [CENSURADO] [CENSURADO] correo electrónico para enviarle la confirmación del acuerdo.
+[04:10] speaker_0: [CENSURADO] su correo electrónico para enviarle la confirmación del acuerdo. ¿Cuál es su correo?
+[04:18] speaker_0: [CENSURADO] me diga su correo electrónico para enviarle la información del acuerdo de pago.
+[04:30] speaker_0: [CENSURADO] puede dar su correo electrónico, por favor?
+[04:42] speaker_0: [CENSURADO] en la línea? [CENSURADO] correo electrónico para continuar.
+[04:55] speaker_0: Señor

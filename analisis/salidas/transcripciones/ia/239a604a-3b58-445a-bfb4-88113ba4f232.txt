@@ -1,0 +1,13 @@
+[00:01] speaker_1: [CENSURADO]
+[00:04] speaker_1: Aló. Muy buenos días.
+[00:07] speaker_0: Sí, dígame.
+[00:09] speaker_1: Buenas. Por favor, [CENSURADO]
+[00:13] speaker_1: .
+[00:13] speaker_0: ¿De parte de quién?
+[00:15] speaker_1: Estamos [CENSURADO] [CENSURADO] por motivo de un proceso legal en curso. Por confidencialidad, necesito que por favor me valide si es
+[00:22] speaker_0: [CENSURADO] [CENSURADO] No, no soy yo, pero es mi hermano.
+[00:29] speaker_1: Disculpe. Para parar las llamadas, confirmo que usted no [CENSURADO] [CENSURADO] ni le conoce, ¿correcto?
+[00:35] speaker_0: Sí, le conozco porque es mi hermano. Por eso le pregunto de parte de quién nos llaman y para qué sería.
+[00:41] speaker_1: Entiendo. Gracias por aclararlo. ¿Me permite saber si su hermano [CENSURADO] [CENSURADO] está disponible en este momento para atenderle?
+[00:48] speaker_0: No, él no está acá, pero yo le puedo dar el número de él. Por eso le pregunto para qué es. Yo le doy por la ra-la razón.
+[00:56] speaker_1: Le agradezco mucho. Es [CENSURADO] por un tema financiero pendiente con Credivalores. ¿Me puede facilitar por favor el número actualizado de su hermano?

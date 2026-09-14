@@ -1,0 +1,17 @@
+[00:01] speaker_0: Buenas.
+[00:07] speaker_1: Aló, muy buenos días.
+[00:11] speaker_0: Buena tarde.
+[00:12] speaker_1: Buenas tardes. Por favor,
+[00:13] speaker_0: [CENSURADO]
+[00:16] speaker_0: En el momento no se encuentra. ¿Quién la necesita?
+[00:20] speaker_1: Disculpe. Para parar las llamadas, ¿confirmo que usted no [CENSURADO] ni le conoce, correcto?
+[00:25] speaker_0: ¿Para qué la necesita o qué es que para quién? O sea, ¿qué razón le, le deja?
+[00:33] speaker_1: [CENSURADO] Necesito hablar con la [CENSURADO] por un tema financiero. Usted me confirma que no es ella, ¿correcto?
+[00:41] speaker_0: Eh, ¿de, de dónde, de dónde la llaman? Es que de todas maneras soy la hija.
+[00:47] speaker_1: Entiendo que es la hija, [CENSURADO] , y necesito hablar específicamente con la [CENSURADO] por un asunto financiero personal. ¿Usted me puede confirmar que [CENSURADO] ?
+[00:58] speaker_0: O sea, ¿de qué? Le estoy diciendo: habla con la hija. ¿De qué?
+[01:03] speaker_1: Entiendo que es la hija, pero por políticas de confidencialidad solo puedo hablar directamente con la señora [CENSURADO] . ¿Ella se encuentra dispon-
+[01:12] speaker_0: Pero ella no habla.
+[01:13] speaker_1: Entiendo, pero necesito confirmar primero. [CENSURADO] o no es ella?
+[01:17] speaker_0: Ay, por Dios, te estoy diciendo que no, hombre. Es que eso, ¿en qué idioma le hablo? Entiendo que no. Yo soy la hija.
+[01:28] speaker_1: Gracias. Que tenga un buen día.

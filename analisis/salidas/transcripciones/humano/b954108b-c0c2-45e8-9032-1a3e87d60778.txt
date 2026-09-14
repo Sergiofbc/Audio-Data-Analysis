@@ -1,0 +1,28 @@
+[00:08] speaker_1: Aló.
+[00:11] speaker_2: Buenas tardes, señora María Elsa, ¿cómo está?
+[00:14] speaker_1: ¿Aló?
+[00:15] speaker_2: Buenas tardes, señora María Elsa, ¿cómo está?
+[00:19] speaker_1: No le escucho.
+[00:22] speaker_2: Señora María Elsa, buenas tardes, ¿cómo está? Habla con .
+[00:26] speaker_1: ¿Cómo?
+[00:28] speaker_1: ¿Cómo?
+[00:28] speaker_2: Le estamos llamando, le estamos llamando en nombre de Salavera, porque el día de hoy, debido a la obligación que usted tiene con ellos, están ofreciendo un excelente descuento para que usted [CENSURADO] su deuda [CENSURADO] tenga su participante y...
+[00:45] speaker_1: No le entiendo nada, nada, no le entiendo nada.
+[00:48] speaker_2: Señora María Elsa, ¿me escucha?
+[00:52] speaker_1: Es que [CENSURADO] no está aquí.
+[00:55] speaker_2: ¿Y me la puede comunicar? ¿Me la puede comunicar, por favor?
+[00:59] speaker_1: ¿Cómo?
+[01:01] speaker_2: Me puede comunicar con la [CENSURADO] .
+[01:04] speaker_1: ¿Pero usted de qué habla?
+[01:07] speaker_2: De una obligación.
+[01:07] speaker_1: Hable claro.
+[01:08] speaker_2: De una obligación que ella tiene en este momento [CENSURADO]
+[01:13] speaker_2: . ¿Me puede comunicar con ella, por favor?
+[01:17] speaker_1: Ella no, ella no vive aquí, y, y en el teléfono tampoco.
+[01:22] speaker_2: ¿Y me puede dar el número telefónico de ella?
+[01:25] speaker_1: Yo no sé el teléfono de ella, no sé.
+[01:29] speaker_2: ¿Y usted es de ustedes ya?
+[01:31] speaker_1: Bueno, bueno, ¿usted es alguna juez o algo? ¿Me está haciendo un interrogatorio o qué es eso?
+[01:38] speaker_2: No.
+[01:38] speaker_1: Qué atrevida. No.
+[01:39] speaker_2: Quiero comunicarla con ella para brindarle un beneficio y un descuento que ella tiene en este momento

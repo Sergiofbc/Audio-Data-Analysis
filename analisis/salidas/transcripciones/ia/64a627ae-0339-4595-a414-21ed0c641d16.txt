@@ -1,0 +1,13 @@
+[00:00] speaker_0: Su mensaje.
+[00:04] speaker_1: Aló, muy buenos días.
+[00:11] speaker_1: ¿Podría confirmarme si estoy hablando con Diego Fernando Lombana?
+[00:23] speaker_1: Señor Lombana, ¿me escucha? ¿Podría confirmarme si estoy hablando con Diego Fernando Lombana?
+[00:36] speaker_1: ¿Aló? Señor Lombana, ¿sigue ahí? Necesito confirmar si hablo con Diego Fernando Lombana para poder continuar.
+[00:47] speaker_1: ¿Aló? Señor Lombana, ¿sigue ahí? Si no escucho su confirmación de que es Diego Fernando Lombana, no podré continuar con la llamada.
+[01:02] speaker_0: Su grabación llegó al tiempo límite. Para editar, marque uno. Para enviar, marque dos. Para las opciones de entrega, marque tres.
+[01:11] speaker_1: [CENSURADO] [CENSURADO] ¿Podría confirmarme si estoy hablando
+[01:14] speaker_0: [CENSURADO] Para editar, marque uno. Para enviar, marque dos. Para las opciones de entrega, marque tres.
+[01:22] speaker_1: [CENSURADO] Parece que hay un problema con la línea. Le pregunto nuevamente: ¿podría confirmarme que-
+[01:28] speaker_0: Para enviar, marque uno. Para enviar, marque dos. Para las opciones de entrega, marque tres.
+[01:33] speaker_1: [CENSURADO] Parece que la llamada se ha desviado a un sistema de grabación.
+[01:38] speaker_0: Adiós.

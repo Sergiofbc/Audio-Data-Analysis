@@ -1,0 +1,16 @@
+[00:03] speaker_0: Aló.
+[00:06] speaker_1: Aló.
+[00:06] speaker_0: Aló.
+[00:06] speaker_1: Muy buenos días.
+[00:08] speaker_0: Buenos días.
+[00:10] speaker_1: Buenas. Por favor, [CENSURADO] .
+[00:13] speaker_0: No señor, está equivocado.
+[00:17] speaker_1: Estamos [CENSURADO] por motivo de un proceso legal en curso.
+[00:21] speaker_1: Por confidencialidad, necesito que por favor me valide si es [CENSURADO] .
+[00:27] speaker_0: No, señor, está equivocado.
+[00:33] speaker_1: Entiendo. ¿Me puede indicar con quién tengo el gusto de hablar entonces?
+[00:38] speaker_0: Con diez meses.
+[00:41] speaker_1: Le comento que [CENSURADO] . Estamos buscando a la [CENSURADO] por un asunto importante. ¿Usted tiene algún contacto donde la pueda ubicar?
+[00:51] speaker_0: No, señor, estoy con mi táctica y, y pues sí, me han estado llamando de, para preguntar esa señora, pero la verdad no, no sé quién sea.
+[01:05] speaker_1: Le explico. [CENSURADO] y estamos tratando de localizar a [CENSURADO] por un asunto pendiente [CENSURADO] Como usted confirma que no es ella, voy a registrar que no fue posible contactarla en este número. Muchas gracias por su tiempo y que tenga buen día.
+[01:21] speaker_0: Igualmente. Hasta luego.

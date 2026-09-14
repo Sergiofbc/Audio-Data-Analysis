@@ -1,0 +1,70 @@
+[00:00] speaker_0: [CENSURADO] Buenos días.
+[00:04] speaker_1: Aló, muy buenos días.
+[00:06] speaker_0: Buenos días.
+[00:08] speaker_1: Buenos días. Por favor, ¿puedo hablar
+[00:09] speaker_0: [CENSURADO]
+[00:12] speaker_0: Sí, señor.
+[00:14] speaker_1: [CENSURADO] [CENSURADO] financiera. Le llamo por motivo de su obligación con Banco doble u referente a un producto financiero. Lo llamo del área de embargos, judicializaciones y alivios financieros. ¿Cómo me le va, [CENSURADO] ?
+[00:30] speaker_0: Bien, sí, señor.
+[00:33] speaker_1: [CENSURADO] Le informo que la deuda total actual es de un millón ochocientos veinte mil pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento, y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. [CENSURADO] ¿Me permite comentarle sobre la propuesta de pago que le tenemos?
+[00:51] speaker_0: Sí, sí, señor.
+[00:53] speaker_1: [CENSURADO] La propuesta consiste en un descuento significativo sobre el total de la deuda. Si usted acepta, podríamos regularizar su situación y evitar cualquier proceso legal. ¿Le gustaría que le explicara los detalles de esta oportunidad?
+[01:06] speaker_0: Listo. ¿Se demora mucho? Porque la verdad es que estoy aquí ya a punto de salir.
+[01:13] speaker_1: Entiendo que tiene prisa.
+[01:15] speaker_0: Sí.
+[01:15] speaker_1: La propuesta- [CENSURADO] La propuesta es muy sencilla. Si usted acepta, podemos cerrar el proceso de manera rápida y eficiente. ¿Le parece si le explico los pasos a seguir?
+[01:26] speaker_0: A ver.
+[01:28] speaker_1: [CENSURADO] El proceso es muy sencillo. Solo necesitamos que usted confirme su interés en la propuesta y luego le indicaremos los pasos para realizar el pago. ¿Le parece si le explico más detalles?
+[01:39] speaker_0: Bueno.
+[01:41] speaker_1: [CENSURADO] El primer paso es que usted nos confirme que desea aprovechar esta oportunidad. Una vez lo haga, le enviaremos la información detallada para que pueda realizar el pago en el menor tiempo posible. ¿Le parece si procedemos de esta manera?
+[01:54] speaker_0: Bueno.
+[01:57] speaker_1: [CENSURADO] Para confirmar su interés en la propuesta, necesito que me indique si desea que le enviemos la información detallada por correo electrónico o si prefiere que le llamemos nuevamente para explicarle los pasos. ¿Qué opción le parece mejor?
+[02:10] speaker_0: Pues envíemela por correo, porque es que, eh, yo estoy a cargo de una hermana en proceso de psiquiatría y en este momento tenemos una cita.
+[02:19] speaker_1: Entiendo perfectamente su situación, [CENSURADO] . Le enviaremos la información detallada a su correo electrónico para que pueda revisarla con calma. ¿Podría confirmarme su correo electrónico para enviarle la propuesta?
+[02:31] speaker_0: [CENSURADO] tres veintidós.
+[02:36] speaker_1: Excelente, [CENSURADO] . Queremos ofrecerle un descuento del cuarenta y siete por ciento de toda la deuda. Así le condonaríamos un total de ochocientos cincuenta mil pesos. Con el descuento ya no debería un millón ochocientos veinte mil pesos, sino solo novecientos setenta mil pesos. Además, le puedo dejar que pague hasta en dos cuotas. Así, serían dos pagos mensuales de cuatrocientos noventa mil pesos cada uno.
+[03:00] speaker_1: [CENSURADO]
+[03:02] speaker_1: Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos este acuerdo de pago?
+[03:11] speaker_0: No, hoy mismo no.
+[03:14] speaker_0: [CENSURADO] ponga eso. No, póngale a los otros aparte, que con esos se, se enreda.
+[03:21] speaker_0: [CENSURADO]
+[03:24] speaker_0: Aló.
+[03:26] speaker_0: Aló.
+[03:26] speaker_1: [CENSURADO] escucha? Sigo en la línea.
+[03:29] speaker_0: Sí, señor. Sí.
+[03:31] speaker_0: [CENSURADO] No.
+[03:32] speaker_1: Entiendo que-
+[03:34] speaker_0: [CENSURADO] En este momento-
+[03:36] speaker_1: ¿Cuánto?-
+[03:36] speaker_0: Si es para hoy, yo hoy no tengo la plata.
+[03:41] speaker_1: Entiendo, [CENSURADO] . La primera cuota no tiene que ser hoy. Puede ser hasta el cinco de junio, es decir, pasado mañana. ¿Usted podría comprometerse a pagar la p...?
+[03:50] speaker_0: No, no, no alcanzo. No alcanzo ahorita en este momento la plata, la plata que me va a llegar se me demora por lo menos, por lo menos un mes.
+[04:00] speaker_1: Entiendo, [CENSURADO] . Si la primera cuota la puede pagar a finales de este mes, digamos el treinta de junio, ¿usted podría comprometerse con las dos cuotas de cuatrocientos noventa mil pesos cada una, la primera el treinta de junio y la segunda en julio?
+[04:16] speaker_0: Pues la verdad si alcanzo lo hago.
+[04:20] speaker_0: Si no, sería la primera.
+[04:25] speaker_1: [CENSURADO] Necesito que usted se comprometa con certeza. ¿Usted puede garantizarme que pagará la primera cuota de cuatrocientos noventa mil pesos el treinta de junio? Es importante que esté segura para formalizar el acuerdo.
+[04:37] speaker_0: Sí, sí, señor.
+[04:40] speaker_1: [CENSURADO] Entonces confirmamos el acuerdo. El valor total es de novecientos setenta mil pesos, que pagará en dos cuotas de cuatrocientos noventa mil pesos cada una. La primera cuota se paga el treinta de junio de dos mil veintiséis y la segunda en julio. ¿Está de acuerdo? Me alegra que lleguemos a este acuerdo de pago y que pueda aprovechar el descuento del cuarenta y siete por ciento, [CENSURADO] . ¿Me autoriza de enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp?
+[05:07] speaker_0: [CENSURADO] Sí.
+[05:10] speaker_1: [CENSURADO] Para enviarle toda la información necesito confirmar algunos datos. ¿Me puede proporcionar un número telefónico alternativo donde la podamos contactar?
+[05:20] speaker_0: Del que me marcaron.
+[05:25] speaker_1: Entiendo, pero necesito un número adicional por si no la podemos contactar en este. ¿Tiene otro nú-
+[05:29] speaker_0: No, no tengo números adicionales.
+[05:33] speaker_1: Entendido, [CENSURADO] . Ya confirmamos su [CENSURADO] julia tres dos veintidós arroba gmail punto com. ¿Me puede confirmar su dirección completa, incluyendo la ciudad donde vive?
+[05:43] speaker_0: En este momento estoy [CENSURADO] no sé cuánto tiempo se me demore.
+[05:51] speaker_1: [CENSURADO] Necesito su dirección de residencia actual para el acuerdo. ¿Cuál es su dirección completa, [CENSURADO] ?
+[05:58] speaker_0: Mmm. Ay, no la tengo aquí. En este momentico no la tengo y ya tengo que salir con esta señora.
+[06:07] speaker_1: Entiendo.
+[06:07] speaker_0: No, [CENSURADO] la que tengo [CENSURADO] la de aquí no, [CENSURADO] aquí yo no, no vivo. Estoy es...
+[06:16] speaker_0: porque toca sac, eh,
+[06:20] speaker_0: tener unas citas acá, [CENSURADO]
+[06:23] speaker_0: .
+[06:24] speaker_1: [CENSURADO]
+[06:27] speaker_1: [CENSURADO] . Entiendo, . ¿Me puede dar su dirección
+[06:30] speaker_0: [CENSURADO]
+[06:35] speaker_0: Eh, en Bo [CENSURADO] [CENSURADO] calle
+[06:43] speaker_0: dieciséis B número diecinueve treinta y uno.
+[06:50] speaker_1: [CENSURADO] Su dirección [CENSURADO] calle dieciséis B número diecinueve treinta y uno [CENSURADO] . ¿Prefiere que la contactemos primero por llamada [CENSURADO] o correo electrónico?
+[07:02] speaker_0: Por WhatsApp.
+[07:06] speaker_1: [CENSURADO] Le enviaremos toda la información del acuerdo [CENSURADO] y correo. Recuerde que la primera cuota de cuatrocientos noventa mil pesos debe pagarla el treinta de junio. Muchas gracias por su tiempo y que tenga muy buen día. Hasta luego.
+[07:18] speaker_0: ¿Llevó la cédula?

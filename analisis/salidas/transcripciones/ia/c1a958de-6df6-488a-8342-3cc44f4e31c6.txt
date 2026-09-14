@@ -1,0 +1,26 @@
+[00:01] speaker_1: [CENSURADO]
+[00:06] speaker_1: Aló.
+[00:06] speaker_0: Aló. Muy buenos días.
+[00:09] speaker_1: Sí, buenas tardes.
+[00:11] speaker_0: Buenas tardes. Por favor, [CENSURADO] ¿ ？
+[00:14] speaker_1: Sí, con él.
+[00:16] speaker_0: [CENSURADO] , le [CENSURADO] del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación con Banco [CENSURADO] . ¿Cómo se encuentra?
+[00:29] speaker_1: Bien, señor.
+[00:32] speaker_0: ,
+[00:33] speaker_0: [CENSURADO] le cuento que muchas personas en una situación parecida a la suya ya lograron ponerse al día y seguir tranquilas. Me gustaría que usted también pueda. ¿Le puedo contar en un momento de qué se trata?
+[00:46] speaker_1: Cuente.
+[00:52] speaker_0: [CENSURADO] , como ya lo han hecho muchos clientes en su misma situación, regularizar esta obligación hoy es más sencillo de lo que parece. Por este motivo, queremos poder ofrecerle alternativas para ponerse al día con su deuda. ¿Le interesa?
+[01:08] speaker_1: Continúe.
+[01:10] speaker_0: [CENSURADO] Queremos ofrecerle un descuento del cero por ciento de toda la deuda. Con el descuento ya no debería un millón setecientos sesenta mil pesos, sino solo un millón setecientos sesenta mil pesos. [CENSURADO] es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?
+[01:33] speaker_1: No.
+[01:35] speaker_0: Entiendo, [CENSURADO] . ¿Qué es lo que le genera duda? ¿El monto total o la forma de pago?
+[01:40] speaker_1: Que no tengo el dinero.
+[01:44] speaker_0: No le entiendo bien, [CENSURADO] . ¿Me puede explicar un poco más?
+[01:48] speaker_1: Que no tengo el dinero. No tengo dinero. No lo tengo.
+[01:52] speaker_1: No tengo la plata, no tengo la, el money, no tengo el cash, no tengo...
+[01:57] speaker_1: ¿Cómo le explico?
+[02:01] speaker_0: [CENSURADO] . La idea es precisamente ayudarle con eso. Podemos dividir el pago en cuotas para que sea más manejable. Le cuento cómo quedaría.
+[02:11] speaker_1: No, hermano, vea, yo lo que tengo son doscientos mil pesos para quedar pago y salgo. Yo ya lo había ofrecido, pero me, me dijeron que no era posible.
+[02:21] speaker_0: Sí, [CENSURADO] que es complicado, pero le cuento que doscientos mil pesos no nos alcanza para formalizar un acuerdo. Lo que sí podemos hacer es dividirlo en cuotas. Le cuento cómo quedarían.
+[02:31] speaker_1: No, no, porque no me alcanza. No me alcanza.
+[02:37] speaker_0: [CENSURADO] la propuesta en cuotas está diseñada precisamente para que sea más cómodo. ¿Me da un momento para contarle cómo quedaría cada cuota, [CENSURADO] ?

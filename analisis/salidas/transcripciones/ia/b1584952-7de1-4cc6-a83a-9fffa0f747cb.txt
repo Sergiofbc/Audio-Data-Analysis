@@ -1,0 +1,15 @@
+[00:00] speaker_0: Aló.
+[00:02] speaker_0: ¿Aló?
+[00:02] speaker_1: Aló, muy buenos días. [CENSURADO]
+[00:07] speaker_1: ¿Podría confirmarme si estoy hablando
+[00:08] speaker_0: [CENSURADO] Sí, con ella habla.
+[00:13] speaker_1: [CENSURADO] Le [CENSURADO] del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación [CENSURADO] ¿Cómo se encuentra?
+[00:25] speaker_0: Bien, sí, señor.
+[00:30] speaker_1: [CENSURADO] Le cuento que muchas personas en una situación parecida a la suya ya lograron ponerse al día y seguir tranquilas. Me gustaría que usted también pueda. ¿Le puedo contar en un momento de qué se trata?
+[00:43] speaker_0: Sí, señor.
+[00:48] speaker_1: [CENSURADO] Gracias por confirmarlo. Como ya lo han hecho muchos clientes en su misma situación, regularizar esta obligación hoy es más sencillo de lo que parece. Por este motivo, queremos poder ofrecerle alternativas para ponerse al día con su deuda. ¿Le interesa?
+[01:03] speaker_0: Sí, señor.
+[01:05] speaker_1: Excelente, [CENSURADO] . Queremos ofrecerle un descuento del cero por ciento de toda la deuda.
+[01:11] speaker_1: Así le condonaríamos un total de cero pesos. Con el descuento, ya no debería ochocientos mil pesos, sino solo ochocientos mil pesos. Además, le puedo dejar la opción de pago aprobada por el sistema. Si queda en pago único, sería un solo pago de cuatrocientos mil pesos. Si queda en cuotas, el sistema le confirmará la cantidad exacta de cuotas y el valor de cada una.
+[01:32] speaker_1: [CENSURADO]
+[01:34] speaker_1: Es una propuesta por tiempo limitado que vencería hoy mismo. Me puede indicar con un sí o un no si le interesa este descuento y hacemos este acuerdo de pago.

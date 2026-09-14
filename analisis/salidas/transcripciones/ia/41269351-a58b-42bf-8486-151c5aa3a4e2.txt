@@ -1,0 +1,13 @@
+[00:04] speaker_0: [CENSURADO] Muy buenos días.
+[00:13] speaker_0: Buenas. Por favor, [CENSURADO]
+[00:21] speaker_0: .
+[00:23] speaker_0: [CENSURADO] ¿Me escucha?
+[00:32] speaker_0: [CENSURADO] Si no escucho su voz, voy a tener que finalizar la llamada. ¿Se encuentra ahí?
+[00:45] speaker_0: [CENSURADO] Al no recibir respuesta voy a dar por terminada la llamada. Que tenga buen día.
+[00:57] speaker_0: [CENSURADO] no recibo respuesta alguna, procederé a colgar la llamada. Que tenga un buen día.
+[01:03] speaker_1: Su grabación llegó al tiempo límite. Para editar, marque uno. Para enviar, marque dos. Para las opciones de entrega, marque tres.
+[01:13] speaker_0: Disculpe, parece que hubo un error técnico con la grabación. Le pregunto nuevamente-
+[01:17] speaker_1: Para editar, marque uno. Para enviar, marque dos. Para las opciones de entrega, marque
+[01:23] speaker_0: [CENSURADO] Parece que hay un problema con la línea o con el sistema de grabación.
+[01:28] speaker_1: Para editar, marque uno. Para enviar, marque dos. Para las opciones de entrega, marque tres.
+[01:35] speaker_0: [CENSURADO] Parece que la llamada se ha desviado a un sistema de grabación. Adiós.

@@ -1,0 +1,10 @@
+[00:04] speaker_0: Aló, muy buenos días.
+[00:13] speaker_0: Buenas, por favor, [CENSURADO]
+[00:22] speaker_0: [CENSURADO] ¿Me escucha?
+[00:32] speaker_0: [CENSURADO] Señor López, ¿está ahí?
+[00:41] speaker_0: [CENSURADO] Si no me confirma si es usted, no podré continuar con la llamada. ¿Es [CENSURADO]
+[00:52] speaker_0: ?
+[00:54] speaker_0: [CENSURADO] Parece que no hay respuesta. Si no confirma su identidad, tendré que finalizar la llamada. ¿Está usted ahí?
+[01:08] speaker_0: [CENSURADO] Al no recibir respuesta, voy a proceder a finalizar la llamada. Que tenga buen día.
+[01:21] speaker_0: [CENSURADO] Como no recibo respuesta, voy a colgar. Que tenga buen día. [CENSURADO] Al no obtener respuesta, finalizo la gestión. Que tenga buen día.
+[01:41] speaker_0: [CENSURADO] escucha ahora? [CENSURADO] confirmar si es usted para poder hablar de su situación.

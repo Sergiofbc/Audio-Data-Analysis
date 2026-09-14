@@ -1,0 +1,37 @@
+[00:03] speaker_0: Aló
+[00:07] speaker_1: [CENSURADO] Muy buenos días.
+[00:09] speaker_0: Sí.
+[00:11] speaker_1: Buenas. Por favor, [CENSURADO]
+[00:14] speaker_1: .
+[00:14] speaker_0: ¿De quién?
+[00:16] speaker_1: Estamos llamando a [CENSURADO] por motivo de un proceso legal en curso. Por confidencialidad, necesito que-- [CENSURADO] Le [CENSURADO] del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación con Banco [CENSURADO] ¿Cómo se encuentra?
+[00:38] speaker_0: Muy bien, [CENSURADO]
+[00:41] speaker_0: [CENSURADO] .
+[00:44] speaker_1: Le cuento que muchas personas en una situación parecida a la suya ya lograron ponerse al día y seguir tranquilas. Me gustaría que usted también pueda. Le puedo contar en un momen...
+[00:56] speaker_1: [CENSURADO] Como ya lo han hecho muchos clientes en su misma situación, regularizar esta obligación hoy es más sencillo de lo que parece. Por este motivo, queremos poder ofrecerle alternativas para ponerse al día con su deuda. ¿Le interesa?
+[01:10] speaker_0: Sí.
+[01:12] speaker_1: Excelente, [CENSURADO] Queremos ofrecerle un descuento del dieciséis por ciento de toda la deuda. Con el descuento ya no debería setenta mil pesos, sino solo sesenta mil pesos. [CENSURADO] Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?
+[01:33] speaker_0: Sí.
+[01:36] speaker_1: Perfecto, [CENSURADO] Tenemos la opción de pagar en una sola cuota antes del trece de agosto. ¿Le es posible?
+[01:43] speaker_0: Eh, antes del trece...
+[01:47] speaker_0: Sí.
+[01:50] speaker_1: ¿Me confirma entonces que acepta el acuerdo en una sola cuota para antes del trece de agosto?
+[01:55] speaker_0: Sí.
+[02:02] speaker_0: Sí.
+[02:04] speaker_1: Me alegra que lleguemos a este acuerdo de pago y que pueda aprovechar el descuento del dieciséis por [CENSURADO] . Me autoriza a enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp, [CENSURADO] .
+[02:19] speaker_1: Perfecto.
+[02:22] speaker_1: [CENSURADO] Primero necesito confirmar con...
+[02:27] speaker_1: Señor Sánchez, [CENSURADO] por favor, me confirma usted la fecha de pago. Es antes del trece de agosto de dos mil veintiséis, ¿correcto?
+[02:35] speaker_0: Sí, sí.
+[02:38] speaker_1: Perfecto. Ahora necesito un número telefónico alternativo suyo.
+[02:42] speaker_0: No, solo tengo este.
+[02:46] speaker_1: Entendido. ¿Me confirma su correo electrónico?
+[02:50] speaker_0: [CENSURADO] @gmail.com.
+[02:56] speaker_1: Perfecto, anotado. ¿Me confirma su dirección completa, incluyendo la ciudad?
+[03:01] speaker_0: Es, es, [CENSURADO] aquí no tiene nomenclatura.
+[03:07] speaker_1: ¿Y la ciudad, señor Sánchez?
+[03:09] speaker_0: Medellín.
+[03:12] speaker_1: Perfecto. ¿Por qué canal prefiere ser contactado primero, [CENSURADO] WhatsApp o correo electrónico?
+[03:18] speaker_0: WhatsApp.
+[03:21] speaker_1: [CENSURADO] El sistema le confirmará ahora el cierre del acuerdo, [CENSURADO] Para finalizar, le informo que esta llamada fue grabada y monitoreada. Todos los datos acá compartidos serán analizados y tratados bajo la ley quince ochenta y uno de dos mil doce. Enviaremos la documentación próximamente. Que tenga un buen día, señor [CENSURADO] . Hasta luego.
+[03:41] speaker_0: Sí, gracias. Bien.

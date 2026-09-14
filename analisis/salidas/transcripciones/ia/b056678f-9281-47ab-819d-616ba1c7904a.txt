@@ -1,0 +1,14 @@
+[00:00] speaker_0: Grabe su mensaje.
+[00:04] speaker_1: Aló, muy buenos días.
+[00:13] speaker_1: Buenas, por favor con Gerardo Andrés Ramírez Díaz.
+[00:24] speaker_1: Señor Ramírez, ¿me escucha?
+[00:31] speaker_1: ¿Aló? ¿Se encuentra ahí?
+[00:42] speaker_1: Señor Ramírez, si no escucho su voz, voy a tener que finalizar la llamada. ¿Me confirma si es usted?
+[00:55] speaker_1: Señor Ramírez, al no recibir respuesta, procederé a finalizar la llamada. Que tenga buen día.
+[01:02] speaker_0: Su grabación llegó al tiempo límite. Para editar, marque 1. Para enviar, marque 2. Para las opciones de entrega, marque 3.
+[01:12] speaker_1: [CENSURADO] Buenas tardes, por favor
+[01:14] speaker_0: [CENSURADO] Para editar, marque 1. Para enviar, marque 2. Para las opciones de entrega, marque 3.
+[01:23] speaker_1: [CENSURADO] Soy un asistente virtual de solución a Cubo ocho y necesito confirmar-
+[01:27] speaker_0: Para editar, marque 1. Para enviar, marque 2. Para las opciones de entrega, marque 3.
+[01:34] speaker_1: [CENSURADO] Parece que hay un problema con la línea o con el sistema de grabación.
+[01:39] speaker_0: Adiós.

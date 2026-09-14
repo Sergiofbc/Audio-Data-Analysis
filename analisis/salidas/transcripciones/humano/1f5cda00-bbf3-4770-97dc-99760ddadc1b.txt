@@ -1,0 +1,26 @@
+[00:16] speaker_1: Sí, buenos días.
+[00:18] speaker_2: Buenos días. Por favor, [CENSURADO] ¿es
+[00:21] speaker_1: [CENSURADO] solicita?
+[00:23] speaker_2: Sí, es que necesito para suministrar la información, necesito saber si es el [CENSURADO] estoy hablando con él.
+[00:29] speaker_1: ¿Y de qué llama?
+[00:31] speaker_2: Sumercé, lo que pasa es que lo que le digo, esto es información que está bajo la reserva legal, conforme a la Ley 1581. Entonces, no le puedo suministrar información a terceros. ¿Hablo con el [CENSURADO] ?
+[00:41] speaker_1: Por eso, pero de qué me van a pedir la información o qué.
+[00:44] speaker_2: No, no, no, yo no le voy a pedir información, le voy a dar una información.
+[00:49] speaker_1: [CENSURADO] Sí, hablo [CENSURADO] .
+[00:52] speaker_2: [CENSURADO] Mucho gusto. Le está hablando Daniela. Yo me estoy comunicando... [CENSURADO] Nosotros somos quienes actualmente compramos la cartera de su obligación pendiente con el banco [CENSURADO] . ¿Cómo se encuentra el día de hoy?
+[01:02] speaker_1: Mmm, bien.
+[01:04] speaker_2: Sí, señor. Es que lo estoy llamando precisamente por el tema de su obligación pendiente, ya que la fecha nos registra un saldo total de seis cientos setenta y dos mil quinientos ochenta y cuatro pesos. Y la idea principal, pues en este caso, es poder llegar a un acuerdo de pago, bien sea por la totalidad o pues pagar ese valor en un periodo máximo de tres cuotas. Quisiera confirmar con usted si se encuentra interesado en acogerse a esta oportunidad para poder solucionar.
+[01:27] speaker_1: Sí, hable.
+[01:29] speaker_2: ¿Sumercé realizaría el pago total o en dos cuotas? Cuénteme cómo le interesa.
+[01:35] speaker_1: En una cuota.
+[01:37] speaker_2: Señor.
+[01:38] speaker_1: En una cuota.
+[01:41] speaker_2: En una cuota, ¿y cuándo realizaría el pago de los seis cientos setenta y dos mil seiscientos pesos?
+[01:46] speaker_1: La otra semana o algo.
+[01:48] speaker_2: La otra semana.
+[01:49] speaker_1: La otra semana yo creo, sí.
+[01:51] speaker_2: Listo, perfecto. Sí, señor. Entonces voy a poner como fecha límite de pago el día viernes veintiuno de agosto para el pago total de la obligación. Sumercé, quiero confirmar para el tema del envío del acuerdo de pago formal, su correo es [CENSURADO] .
+[02:09] speaker_1: Sí.
+[02:11] speaker_2: Listo, sumercé. Entonces, en ese orden de ideas, a ese correo le va a estar llegando la información. Igual, el día de mañana me comunico con usted para confirmar el tema del acuerdo. Le escribimos por WhatsApp, ¿listo?
+[02:21] speaker_1: Bueno.
+[02:23] speaker_2: Listo, señor.

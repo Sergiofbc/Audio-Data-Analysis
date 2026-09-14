@@ -1,0 +1,19 @@
+[00:23] speaker_2: Aló.
+[00:25] speaker_1: Buenas tardes. Luis David, ¿cómo está?
+[00:29] speaker_2: Bien, bien.
+[00:31] speaker_2: Espere un momento.
+[00:36] speaker_1: Aló.
+[00:38] speaker_1: Muy buenos días.
+[00:40] speaker_1: Aló.
+[00:42] speaker_2: Sí, señora. Muy buenas tardes. ¿Me es tan amable de comunicar con don Luis David?
+[00:50] speaker_1: No se le entiende nada, se escucha superbajito. No, o sea, no le entiendo.
+[00:54] speaker_2: ¿Es tan amable de comunicar con don Luis David? De, ¿de su empresa?
+[00:59] speaker_1: Ah, no, señorita, en el momento él no se encuentra. ¿Como para qué sería?
+[01:03] speaker_2: Ah, sí, lo que pasa es que esta mañana hablé con él y él me indicó que lo llamara en este horario.
+[01:10] speaker_1: Usted habló con él y él le dijo que lo llamara como en este horario. ¿Y eso como para qué sería, señorita?
+[01:16] speaker_2: Sí, eso es acerca de una información del Banco Bogotá.
+[01:21] speaker_1: Ah, del Banco Bogotá. Pero chica, es que en el momento él no se encuentra. Ven, mami, ven.
+[01:28] speaker_2: ¿Y a qué hora lo puedo llamar?
+[01:30] speaker_1: Bueno, señorita, él se fue por allá a ver una, una entrevista de trabajo, no sabría decirle.
+[01:36] speaker_2: Bueno, sí señora. Muchísimas gracias, muy amable.
+[01:39] speaker_1: Bueno, sí señorita. Hasta luego.

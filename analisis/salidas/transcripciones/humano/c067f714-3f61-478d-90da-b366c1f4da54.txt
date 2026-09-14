@@ -1,0 +1,19 @@
+[00:07] speaker_1: Aló.
+[00:10] speaker_1: ¿Aló?
+[00:11] speaker_1: Aló.
+[00:12] speaker_2: Buenos días.
+[00:14] speaker_1: Buenos días.
+[00:15] speaker_2: ¿Me comunico con el señor José Torres?
+[00:17] speaker_1: Sí, conmigo.
+[00:18] speaker_2: Señor José, ¿cómo está? Me estoy comunicando de parte del Ogro, del área de consolidación de crédito para Banco Bogotá, en referencia a un acuerdo de pago que usted tiene programado para el día de hoy, de dos cuotas. La primer cuota es por un valor de quinientos ochenta mil pesos. Me confirmaría si este acuerdo fue enviado a su correo electrónico y recibió el mismo.
+[00:35] speaker_1: El, el correo, si no que es que yo restauré todo lo del soporte y necesitaría los medios de pago.
+[00:41] speaker_2: Mmm, comprendo. O sea, solicitaría... ¿El correo es torresgosesjose@gmail.com?
+[00:47] speaker_1: Sí, señorita.
+[00:48] speaker_2: Si usted gusta, se lo puedo solicitar a través de PDF al área de documentación para que sea remitido a través [CENSURADO] y allí va a encontrar los medios de pago. Recuerde que el Ogro tiene su plataforma para que usted pueda ingresar y generar su pago correspondiente. ¿Listo? Entonces, me confirmaría su pago para el día de hoy y ya le solicito como tal su respectivo acuerdo enviar [CENSURADO]
+[01:11] speaker_2: ¿Listo?
+[01:11] speaker_1: Listo.
+[01:11] speaker_2: Listo, señor José. Muchas gracias por atender mi llamada. Por favor, hacer envío del soporte a través del [CENSURADO] . Se le va a hacer el envío del acuerdo, ¿listo?
+[01:19] speaker_1: Okey.
+[01:21] speaker_2: [CENSURADO] Que esté muy bien. Hasta
+[01:24] speaker_2: luego.
+[01:24] speaker_1: Hasta luego.

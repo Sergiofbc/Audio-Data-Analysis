@@ -1,0 +1,37 @@
+[00:00] speaker_0: Aló.
+[00:03] speaker_1: Aló.
+[00:03] speaker_0: Aló.
+[00:03] speaker_1: Muy buenos días.
+[00:05] speaker_0: Cuénteme.
+[00:07] speaker_1: ¿Podría confirmarme si estoy hablando
+[00:08] speaker_0: [CENSURADO] Sí, señor. ¿Qué necesita?
+[00:13] speaker_1: [CENSURADO] Le [CENSURADO] del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación [CENSURADO] ¿Cómo se encuentra?
+[00:24] speaker_0: Bien, bien.
+[00:28] speaker_0: Cuénteme. ¿Qué necesita?
+[00:32] speaker_1: [CENSURADO] Lo llamo porque hoy usted tiene una oportunidad concreta para dejar resuelto-
+[00:38] speaker_0: ¡Aló, aló, aló!
+[00:38] speaker_1: Un tema pendiente muy buenas condiciones-
+[00:39] speaker_0: Hable ahí, hable, hable poquito, mira. Se va a poner más y más para allá. ¿Cómo dijo?
+[00:47] speaker_0: ¿Aló?
+[00:48] speaker_1: [CENSURADO] Gracias por confirmarlo. La buena noticia es que hoy puede regularizar su deuda con un uno por ciento de descuento y quedar al día. Por este motivo queremos poder ofrecerle alternativas para ponerse al día con su deuda. ¿Le interesa?
+[01:01] speaker_0: ¿Cuánto es ese uno por ciento? ¿Cuánto es?
+[01:03] speaker_1: Claro. Permítame atender sus dudas.
+[01:09] speaker_0: Aló. Ay, callado.
+[01:13] speaker_1: Sí, [CENSURADO] aquí estoy. Le comento que con el descuento de-
+[01:16] speaker_0: Hable más rapidito que estoy ocupado. Si quiere que lo atienda, hable más rapidito que estoy ocupado.
+[01:23] speaker_1: [CENSURADO] . ¿Me permite presentarle la propuesta de acuerdo entonces?
+[01:29] speaker_0: Ah, dígame, dígame.
+[01:32] speaker_1: [CENSURADO] . Queremos ofrecerle un descuento del uno por ciento de toda la deuda. Así le condonaríamos un total de
+[01:40] speaker_1: [CENSURADO] . La propuesta es la siguiente: un pago único de cuatro millones trescientos diez mil pesos con fecha límite el cuatro de agosto de dos mil veintiséis. ¿Le parece bien?
+[01:52] speaker_0: Excelente.
+[01:55] speaker_1: ¿Confirma entonces que acepta el acuerdo con un solo pago?
+[01:59] speaker_0: Claro, claro. Cómo no.
+[02:06] speaker_1: [CENSURADO] escucha? Confirma que acepta-
+[02:08] speaker_0: Sí, señor. Lo estoy escuchando. Sí, señor. Sí, señor. Acepto.
+[02:14] speaker_1: Perfecto, [CENSURADO] . Ya dejamos registrada la propuesta aceptada. Ahora voy a confirmar el envío de la información del acuerdo y los canales de pago por correo y WhatsApp.
+[02:35] speaker_1: Hola, sigo en línea. Si me escucha, por favor respóndame con un sí, un no o una pregunta breve. [CENSURADO] ¿Me puede proporcionar un número [CENSURADO] favor?
+[02:48] speaker_0: Tres [CENSURADO]
+[02:51] speaker_0: .
+[02:51] speaker_1: ¿Me puede completar el número? Usted me dice trescientos uno y faltan más dígitos.
+[02:55] speaker_0: Treinta y cuatro, sesenta y cuatro, doble siete, seis.
+[02:59] speaker_1: Perfecto. Ahora necesito su correo electrónico, por favor.

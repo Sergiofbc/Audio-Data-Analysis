@@ -1,0 +1,34 @@
+{
+  "jerga_colombiana": [
+    "ome",
+    "joda",
+    "sumercé",
+    "listo pues",
+    "de una",
+    "¿sí o qué?"
+  ],
+  "terminologia_cobranza": [
+    "saldo pendiente",
+    "acuerdo de pago",
+    "refinanciación",
+    "mora",
+    "castigada",
+    "obligación",
+    "cuota",
+    "abono",
+    "descuento por pronto pago",
+    "reporte en centrales"
+  ],
+  "nombres_productos": [
+    "tarjeta de crédito",
+    "libranza",
+    "crédito de libre inversión"
+  ],
+  "nombres_propios_empresas": [
+    "Datacrédito",
+    "TransUnion",
+    "PSE",
+    "Bancolombia",
+    "Nequi"
+  ]
+}

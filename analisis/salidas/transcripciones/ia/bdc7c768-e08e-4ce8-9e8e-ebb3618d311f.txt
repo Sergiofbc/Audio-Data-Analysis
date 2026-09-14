@@ -1,0 +1,38 @@
+[00:01] speaker_0: [CENSURADO]
+[00:04] speaker_0: [CENSURADO] Muy buenos días.
+[00:07] speaker_0: [CENSURADO] [CENSURADO] por favor.
+[00:09] speaker_1: [CENSURADO]
+[00:12] speaker_1: De parte de quién?
+[00:15] speaker_0: Estamos [CENSURADO] motivo de un proceso legal en curso. Por confidencialidad, necesito que por favor me valide si es usted.
+[00:20] speaker_1: [CENSURADO]
+[00:23] speaker_1: Sí, con él.
+[00:26] speaker_0: [CENSURADO] Le [CENSURADO] del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación, [CENSURADO] ¿cómo me le va, señor Varón?
+[00:36] speaker_1: Bien, [CENSURADO]
+[00:38] speaker_1: [CENSURADO] .
+[00:40] speaker_0: La entidad con quien se originó la deuda [CENSURADO] y [CENSURADO] es la dueña de la deuda por un total de quinientos noventa mil pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento, y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. [CENSURADO] ¿Me permite comentarle sobre la propuesta de pago que le tenemos?
+[01:02] speaker_1: Sí, señor.
+[01:04] speaker_0: [CENSURADO] [CENSURADO] Queremos ofrecerle un descuento del cinco por ciento de toda la deuda. Con el descuento ya no debería quinientos noventa mil pesos, sino solo quinientos sesenta mil pesos. [CENSURADO] Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?
+[01:24] speaker_1: Sí, amigo, pues me interesa, la verdad me interesa saldar eso, hermano, pero ahorita no puedo, ¿verdad?
+[01:31] speaker_0: Entiendo [CENSURADO] . Cuénteme qué es lo que le impide comprometerse en este momento.
+[01:38] speaker_1: Que tengo múltiples problemas financieros por ahí
+[01:44] speaker_1: en este momento, entonces no tengo liquidez ahorita para, para solucionar ese tema, pero sí me interesa solucionarlo, claro.
+[01:52] speaker_0: [CENSURADO] Entiendo su situación. La propuesta que tenemos disponible es de una sola cuota de quinientos sesenta mil pesos, con fecha de pago antes del 31 de julio. ¿Hay alguna posibilidad de que pueda comprometerse con ese valor antes de que termine el mes?
+[02:06] speaker_1: Antes de terminar este mes y estamos a veinti-- ¿qué es que estamos? ¿Veintidós?
+[02:13] speaker_0: Estamos a 23 de julio. [CENSURADO] Le quedarían hasta el 31 de julio para realizar el pago.
+[02:23] speaker_1: Pues me, me, me interesa, la verdad sí me interesa, pues déjeme entonces ahí yo cómo, cómo brego a solucionar y, y claro.
+[02:32] speaker_0: [CENSURADO] ¿Me confirma entonces con un sí que acepta el acuerdo por la opción de una sola cuota antes del 31 de julio?
+[02:40] speaker_1: Sí, sí, señor. Aquí [CENSURADO] tienen la oficina de ustedes.
+[02:45] speaker_0: [CENSURADO] entonces el acuerdo. Me alegra que lleguemos a este acuerdo de pago y que pueda aprovechar el descuento del cinco por [CENSURADO] Me autoriza a enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp, [CENSURADO]
+[02:58] speaker_0: .
+[02:58] speaker_1: Sí, sí, señor.
+[03:03] speaker_0: Perfecto, [CENSURADO] Primero necesito confirmar con usted la fecha de pago de la primera cuota. Sería el 26 de julio de 2026. ¿Me confirma esa fecha?
+[03:14] speaker_1: Veintiséis dice, uno dice que hasta el 31 hay plazo.
+[03:21] speaker_0: Tiene [CENSURADO] tiene hasta el 31 de julio para realizar el pago. La fecha que le sugiero es el 26 de julio, pero puede ser cualquier día hasta el 31. ¿Cuál fecha prefiere usted?
+[03:32] speaker_1: El 31.
+[03:38] speaker_0: Perfecto, [CENSURADO] . Confirmo entonces el 31 de julio como fecha de pago. Ahora necesito solicitarle un número telefónico alternativo para contactarlo.
+[03:48] speaker_1: Este mismo número.
+[03:53] speaker_0: Entendido, [CENSURADO] . ¿Me puede confirmar su correo electrónico?
+[03:59] speaker_1: No, por este medio me puede...
+[04:03] speaker_0: [CENSURADO] Necesito que me proporcione su correo electrónico para enviarle la información del acuerdo.
+[04:12] speaker_1: ¿A dónde quedan las oficinas aquí [CENSURADO] ? Regáleme la dirección, hágame el favor.
+[04:18] speaker_0: [CENSURADO] Necesito su correo electrónico para enviarle los detalles del acuerdo. ¿Me puede proporcionar su dirección de correo?
