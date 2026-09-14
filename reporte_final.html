@@ -228,10 +228,16 @@
         <p>Cuando la IA logra cerrar, no deja más plata sobre la mesa que el humano. El caso de negocio de Creceré AI no se ve debilitado en la propuesta económica.</p>
       </div>
       <div>
-        <span class="tag">Prioridad 3 · Explorar</span>
-        <h4>Ampliar el guion de la IA</h4>
-        <p>64% de las llamadas humanas no son negociación nueva (seguimiento, recordatorio, renegociación de fecha) — un tipo de gestión que la IA hoy no cubre y aún no se ha comparado.</p>
+        <span class="tag">Prioridad 3 · Extender el alcance</span>
+        <h4>La IA ya está lista para el seguimiento</h4>
+        <p>El seguimiento humano (54% de sus llamadas) no negocia descuento en ningún caso, dura 43% menos (161s vs. 281s) y cierra 70% de las veces — es guion fijo, justo lo que la IA ya ejecuta bien. Es la extensión de alcance más natural, no la negociación nueva.</p>
       </div>
+    </div>
+
+    <div class="callout" style="background:#F3F0FC;border-color:#D9CFF5;">
+      <span class="icon">💰</span>
+      <div><strong style="color:var(--deep)">El modelo de costos cambia la cuenta al extender el alcance.</strong>
+      <p>Creceré AI factura como Banker-as-a-Service: costo de implementación + tarifa mensual, por <i>cuenta procesada</i> o por <i>comisión sobre recaudo</i> — dato del proveedor, no de este análisis. El seguimiento de hoy ya recauda al 70% con un costo esencialmente fijo (el agente humano). Migrarlo a IA bajo comisión sobre recaudo significa empezar a pagar variable sobre plata que hoy el banco recupera casi gratis; bajo cuenta procesada la cuenta es otra. Antes de ampliar el alcance de negociación a seguimiento, pedirle a Creceré una cotización específica para ese caso de uso — el ahorro que sí se validó aquí es sobre negociación nueva, no sobre seguimiento.</p></div>
     </div>
 
     <h2 class="sec">Metodología</h2>
@@ -241,6 +247,7 @@
       <b>3)</b> extracción semántica de 24 variables de negociación por llamada sobre el texto transcrito, con validación manual sobre el 25% de la muestra (2 errores encontrados y corregidos) —
       <b>4)</b> comparación estadística (Fisher exact, Mann-Whitney U) en 5 capas: negocio, negociación, objeciones, conducta y sentimiento. Código, datos y detalle completo de cada paso en el repositorio.
     </p>
+    <p class="methodology" style="margin-top:6px"><b>Límite de la muestra:</b> los 100 audios provienen de distintas campañas y momentos de gestión (no es un experimento controlado con el mismo caso repartido al azar entre agente humano y agente IA) — por eso todo el análisis compara <i>tipos de gestión equivalentes</i> en vez de asumir que las dos muestras son directamente intercambiables.</p>
 
   </main>
 
