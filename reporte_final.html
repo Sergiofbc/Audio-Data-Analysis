@@ -68,6 +68,12 @@
   .headline .big{ font-size:28px; font-weight:900; line-height:1; white-space:nowrap; }
   .headline p{ margin:0; font-size:12.5px; opacity:.92; }
 
+  .central{ font-size:11.5px; color:var(--deep); background:var(--bg-soft); border:1px solid var(--pink-soft);
+    border-radius:10px; padding:8px 12px; margin:2px 0 10px; }
+  .compare{ display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin-bottom:4px; }
+  .compare div{ font-size:10.8px; line-height:1.35; }
+  .compare b{ display:block; font-size:10px; text-transform:uppercase; letter-spacing:.04em; color:var(--purple); margin-bottom:2px; }
+
   h2.sec{ font-size:13px; text-transform:uppercase; letter-spacing:.06em; color:var(--deep);
     font-weight:800; margin:22px 0 10px; display:flex; align-items:center; gap:8px; }
   h2.sec::before{ content:""; width:16px; height:3px; border-radius:2px; background:var(--pink); display:inline-block; }
@@ -145,9 +151,19 @@
 
   <main>
 
+    <h2 class="sec">Comparación Humanos vs. IA</h2>
+    <p class="central"><b>Pregunta central:</b> ¿existen diferencias estadísticamente sustentables entre el desempeño de los agentes humanos y los agentes de IA?</p>
+
     <div class="headline">
       <div class="big">44% <span style="font-size:14px;font-weight:600;opacity:.85">vs</span> 30%</div>
       <p>Tasa de cierre humano vs. IA <b>comparando el mismo tipo de gestión</b> (oferta nueva de descuento) — la diferencia <b>no es estadísticamente significativa</b> (p=0.37). La brecha "cruda" sin ese ajuste (54% vs 22%) sobreestima la distancia real: gran parte es composición de muestra, no habilidad negociadora.</p>
+    </div>
+
+    <div class="compare">
+      <div><b>Desempeño</b>Empatados en negociación nueva (p=0.37) y en valor recuperado (p=0.50). El humano gana en confiabilidad: cierra más en total, sobre todo por la caída técnica de la IA (hallazgos 01–03).</div>
+      <div><b>Explicación</b>La composición de la muestra pesa más que la habilidad: la IA casi solo hace negociación nueva (74%), el humano reparte su tiempo en seguimiento (54%) y logra contacto real más seguido (92% vs 68%).</div>
+      <div><b>Conducta</b>El humano interrumpe más, sostiene turnos cortos y se adapta al cliente el doble de veces. La IA sostiene el guion sin desviarse — consistente, pero rígida ante objeciones (hallazgo 04).</div>
+      <div><b>Mejora</b>Arreglar la caída técnica cierra media brecha cruda sin tocar el guion; extender el guion a seguimiento es la oportunidad más natural, sujeta al modelo de costos (ver recomendaciones).</div>
     </div>
 
     <h2 class="sec">Hallazgos clave</h2>
@@ -237,7 +253,7 @@
     <div class="callout" style="background:#F3F0FC;border-color:#D9CFF5;">
       <span class="icon">💰</span>
       <div><strong style="color:var(--deep)">El modelo de costos cambia la cuenta al extender el alcance.</strong>
-      <p>Creceré AI factura como Banker-as-a-Service: costo de implementación + tarifa mensual, por <i>cuenta procesada</i> o por <i>comisión sobre recaudo</i> — dato del proveedor, no de este análisis. El seguimiento de hoy ya recauda al 70% con un costo esencialmente fijo (el agente humano). Migrarlo a IA bajo comisión sobre recaudo significa empezar a pagar variable sobre plata que hoy el banco recupera casi gratis; bajo cuenta procesada la cuenta es otra. Antes de ampliar el alcance de negociación a seguimiento, pedirle a Creceré una cotización específica para ese caso de uso — el ahorro que sí se validó aquí es sobre negociación nueva, no sobre seguimiento.</p></div>
+      <p>Creceré AI factura como Banker-as-a-Service: costo de implementación + tarifa mensual, por <i>cuenta procesada</i> o por <i>comisión sobre recaudo</i> — dato del proveedor, no de este análisis. El seguimiento de hoy ya recauda al 70% con un costo esencialmente fijo (el agente humano). Migrarlo a IA bajo comisión sobre recaudo significa empezar a pagar variable sobre plata que hoy el banco recupera casi gratis; bajo cuenta procesada la cuenta es otra. El ahorro que sí se validó en este análisis es sobre negociación nueva — sobre seguimiento, el modelo de costos todavía no se ha cotizado.</p></div>
     </div>
 
     <h2 class="sec">Metodología</h2>
