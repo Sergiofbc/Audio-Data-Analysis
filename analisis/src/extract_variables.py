@@ -43,7 +43,7 @@ CARPETAS = {"humano": "audios_humanos_censurados", "ia": "audios_ia_censurados"}
 CAMPOS = [
     "file",                    # UUID del audio, sin extension
     "grupo",                   # "humano" | "ia" (ya se sabe por la carpeta)
-    "tipo_gestion",            # nueva_oferta | seguimiento_acuerdo | renegociacion_fecha | otro
+    "tipo_gestion",            # nueva_oferta | seguimiento_o_renegociacion | otro -- ver nota abajo
     "contacto_efectivo",       # bool -- ¿se habla con el titular o alguien que puede decidir?
     "de_donde_llaman",         # string o null, tal como se menciona
     "origen_deuda",            # string o null
@@ -72,7 +72,12 @@ CAMPOS = [
 ]
 
 # --- Prompt --------------------------------------------------------------
-# Mismo texto (salvo la lista de archivos) que se uso en los 4 lotes reales.
+# Texto real usado en los 4 lotes (salvo la lista de archivos), CON UNA CORRECCION:
+# el prompt original pedia distinguir `seguimiento_acuerdo` de `renegociacion_fecha`.
+# La validacion post-entrega mostro que esa frontera no se sostiene desde el texto
+# (ej. el caso `77d258d0`, con la misma firma -- objecion "no tiene plata" + fecha que
+# se mueve -- pero clasificado en el otro grupo), asi que aqui ya aparecen fusionados
+# en `seguimiento_o_renegociacion`; ver etapa3.ipynb, seccion 2.2, para el detalle.
 # `null` significa "no se dice o cae en un [CENSURADO]" -- nunca se infiere un valor
 # que no este en el texto.
 PROMPT_TEMPLATE = """\
@@ -86,10 +91,9 @@ valor que no este dicho o implicado de forma inequivoca; si el dato cae dentro d
 un `[CENSURADO]` o simplemente no se menciona, usa `null`) estos campos:
 
 - `tipo_gestion`: uno de `nueva_oferta` (se ofrece descuento/condonacion nueva sobre
-  la deuda, sin referirse a un acuerdo previo ya pactado), `seguimiento_acuerdo` (la
-  llamada gira en torno a un acuerdo/compromiso YA formalizado antes), `renegociacion_fecha`
-  (el cliente ya tenia un compromiso pactado y pide moverlo, sin oferta de descuento
-  nueva), `otro`.
+  la deuda, sin referirse a un acuerdo previo ya pactado), `seguimiento_o_renegociacion`
+  (la llamada gira en torno a un acuerdo/compromiso YA formalizado antes -- recordatorio,
+  confirmacion de medios de pago, o el cliente pide mover la fecha pactada), `otro`.
 - `contacto_efectivo`: true/false -- ¿habla con el titular o alguien que puede decidir?
 - `de_donde_llaman`, `origen_deuda`: string o null.
 - `monto_total_actual_cop`, `descuento_pct`, `descuento_monto_cop`, `valor_a_pagar_cop`:
