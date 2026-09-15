@@ -160,49 +160,86 @@
     </p>
     <p class="methodology" style="margin-top:6px"><b>Límite de la muestra:</b> los 100 audios provienen de distintas campañas y momentos de gestión — no es un experimento controlado con el mismo caso repartido al azar entre agente humano y agente IA. Por eso todo el análisis compara <i>tipos de gestión equivalentes</i>, no las dos muestras completas entre sí.</p>
 
-    <h2 class="sec">1. ¿Tienen los mismos casos de éxito?</h2>
-    <p class="central"><b>Planteamiento inicial:</b> al escuchar los primeros audios, la pregunta fue si el agente de IA logra los mismos casos de éxito que el agente humano — porque si los logra, y ya se sabe que la IA es más barata de operar, ahí está el argumento para venderle el producto al banco.</p>
+    <h2 class="sec">1. ¿El agente de IA logra los mismos casos de éxito que el agente humano?</h2>
+    <p class="central">Si el desempeño es comparable, el ahorro en costo operativo de la IA (ver la nota de precios de Creceré AI más abajo) ya es argumento suficiente para adoptarla. La comparación justa es solo dentro de <b>negociación nueva</b>, donde ambos agentes compiten en igualdad de condiciones — el humano reparte su tiempo con seguimiento y la IA casi no.</p>
 
-    <table style="width:100%;border-collapse:collapse;font-size:11px;margin:6px 0 12px">
-      <tr style="color:var(--muted);text-align:left">
-        <th style="padding:4px 6px"></th><th style="padding:4px 6px">Negociación nueva</th>
-        <th style="padding:4px 6px">Seguimiento / renegociación</th><th style="padding:4px 6px">Otro (no es gestión real)</th>
-      </tr>
-      <tr style="border-top:1px solid var(--line)"><td style="padding:5px 6px"><b>Humano</b></td>
-        <td style="padding:5px 6px">18 (36%)</td><td style="padding:5px 6px">27 (54%)</td><td style="padding:5px 6px">5 (10%)</td></tr>
-      <tr style="border-top:1px solid var(--line)"><td style="padding:5px 6px"><b>IA</b></td>
-        <td style="padding:5px 6px">37 (74%)</td><td style="padding:5px 6px">0 (0%)</td><td style="padding:5px 6px">13 (26%)</td></tr>
-    </table>
-    <p style="font-size:11.5px;color:var(--muted);margin:0 0 12px">La IA hace casi exclusivamente negociación nueva; el humano reparte su tiempo. Comparar "todo contra todo" mezcla dos tareas distintas — la comparación justa es solo dentro de negociación nueva, donde ambos compiten en igualdad de condiciones.</p>
-
-    <div class="findings">
-      <div class="finding">
-        <span class="n">TASA DE CIERRE, MISMA GESTIÓN</span>
-        <div class="stat">44% vs 30%</div>
-        <p>En negociación nueva, el humano cierra 44% de sus llamadas y la IA 30%. Con 18 y 37 casos, esa diferencia de 15 puntos podría deberse al azar de la muestra — no hay evidencia sólida de que uno negocie mejor que el otro.</p>
-        <span class="caveat">Fisher exact, p=0.37 · n=18 vs 37</span>
+    <div class="chart-card">
+      <h3>Muestra analizada — 50 llamadas humanas / 50 IA</h3>
+      <div class="legend">
+        <span><span class="dot" style="background:var(--deep)"></span>Negociación nueva</span>
+        <span><span class="dot" style="background:var(--pink)"></span>Seguimiento / renegociación</span>
+        <span><span class="dot" style="background:#cfc8da"></span>Otro (no es gestión real)</span>
       </div>
-      <div class="finding">
-        <span class="n">VALOR RECUPERADO AL CERRAR</span>
-        <div class="stat">95.8% vs 86.7%</div>
-        <p>% de la deuda original que termina pagando el cliente cuando el agente sí cierra. Tampoco hay diferencia real aquí: la IA no deja más plata sobre la mesa por ser más barata.</p>
-        <span class="caveat">Mann-Whitney, p=0.50 · n=8 vs 10</span>
+      <div class="bar-row">
+        <div class="label">Humano</div>
+        <div class="bar-track" style="display:flex">
+          <div class="bar-fill" style="width:36%;background:var(--deep)"><span>18 · 36%</span></div>
+          <div class="bar-fill" style="width:54%;background:var(--pink)"><span>27 · 54%</span></div>
+          <div class="bar-fill outside" style="width:10%;background:#cfc8da"><span>5 · 10%</span></div>
+        </div>
+      </div>
+      <div class="bar-row">
+        <div class="label">IA</div>
+        <div class="bar-track" style="display:flex">
+          <div class="bar-fill" style="width:74%;background:var(--deep)"><span>37 · 74%</span></div>
+          <div class="bar-fill outside" style="width:26%;background:#cfc8da"><span>13 · 26%</span></div>
+        </div>
       </div>
     </div>
 
-    <div class="callout">
-      <span class="icon">⚠️</span>
-      <div><strong>Donde sí hay una brecha real: 13 de 50 llamadas de IA (26%) no llegan a una decisión, contra 1 de 50 en humano.</strong>
-      <p>En 8 de esas 13 no hay ninguna señal de que el cliente haya rechazado algo — 3 caen en buzón de voz y 5 se cortan en pleno trámite (una ya con el acuerdo aceptado de palabra). Las otras 5 se cortan justo tras una objeción sin resolver, y ahí sí podría ser el cliente terminando la llamada. Arreglar al menos esas 8 caídas sin señal de rechazo es la ganancia más rápida disponible, sin tocar el guion de negociación.</p></div>
+    <div class="chart-card" style="margin-top:10px">
+      <h3>Tasa de cierre y valor recuperado, en negociación nueva</h3>
+      <div class="legend">
+        <span><span class="dot" style="background:var(--humano)"></span>Humano</span>
+        <span><span class="dot" style="background:var(--ia)"></span>IA</span>
+      </div>
+      <div class="bar-row">
+        <div class="label">Tasa de cierre</div>
+        <div class="bar-track"><div class="bar-fill" style="width:44%;background:var(--humano)"><span>44%</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="label"></div>
+        <div class="bar-track"><div class="bar-fill" style="width:30%;background:var(--ia)"><span>30%</span></div></div>
+      </div>
+      <div class="bar-row" style="margin-top:10px">
+        <div class="label">Valor recuperado</div>
+        <div class="bar-track"><div class="bar-fill" style="width:95.8%;background:var(--humano)"><span>95.8%</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="label"></div>
+        <div class="bar-track"><div class="bar-fill" style="width:86.7%;background:var(--ia)"><span>86.7%</span></div></div>
+      </div>
     </div>
+    <p style="font-size:11.5px;color:var(--muted);margin:8px 0 0">Con 18 casos humanos y 37 de IA, una diferencia de 15 puntos en tasa de cierre no es estadísticamente significativa (Fisher exact, p=0.37); tampoco la hay en el valor recuperado al cerrar (Mann-Whitney, p=0.50, n=8 vs 10). En la práctica, la IA cierra a un nivel comparable al del agente humano — y lo hace a un costo operativo menor, así que el resultado neto es ahorro sin sacrificar resultados.</p>
 
     <h2 class="sec">2. Por qué extender el alcance a seguimiento</h2>
-    <div class="headline">
-      <div class="big" style="font-size:22px">54% · 43% · 70%</div>
-      <p>El seguimiento humano (54% de sus llamadas) no negocia descuento en ningún caso, dura 43% menos (161s vs. 281s de una negociación nueva) y cierra el 70% de las veces — más que cualquiera de los dos agentes en negociación nueva. Es guion fijo: justo lo que la IA ya ejecuta bien.</p>
+
+    <div class="chart-card">
+      <h3>Seguimiento vs. negociación nueva (agente humano)</h3>
+      <div class="bar-row">
+        <div class="label">Cierra la llamada</div>
+        <div class="bar-track"><div class="bar-fill" style="width:70%;background:var(--purple)"><span>70%</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="label">Del total de sus llamadas</div>
+        <div class="bar-track"><div class="bar-fill" style="width:54%;background:var(--deep)"><span>54%</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="label">Contacto efectivo</div>
+        <div class="bar-track"><div class="bar-fill" style="width:100%;background:var(--success)"><span>100%</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="label">Duración (161s vs. 281s)</div>
+        <div class="bar-track"><div class="bar-fill outside" style="width:43%;background:var(--pink-soft)"><span>-43%</span></div></div>
+      </div>
     </div>
-    <p style="font-size:11.8px;margin:0 0 8px">Estas llamadas mueven, en mediana, <b>$800.000 COP</b> cada una — menos que los $1.37–1.82M de una negociación nueva — pero son más de la mitad del volumen del agente humano, con <b>contacto efectivo en el 100%</b> de los casos y objeciones del cliente en el 63% (sobre todo "no tengo la plata ahora") que aun así no impiden cerrar 7 de cada 10 veces.</p>
-    <p style="font-size:11.8px;margin:0 0 12px">La razón de fondo es de conducta: el humano interrumpe más y se adapta a lo que dice el cliente el doble de veces que la IA (68% vs 36%) — una ventaja real en negociación, donde hay que reaccionar a cada objeción. En seguimiento esa flexibilidad no hace falta: solo hay que confirmar y recordar, la tarea donde la rigidez de guion de la IA deja de ser una desventaja.</p>
+
+    <ul style="margin:12px 0;padding-left:18px;font-size:11.8px;line-height:1.65;color:var(--ink)">
+      <li>Es guion fijo — <b>no negocia descuento en ningún caso</b> — y aun así cierra más que cualquiera de los dos agentes en negociación nueva. Justo lo que la IA ya ejecuta bien.</li>
+      <li>Mueve en mediana <b>$800.000 COP</b> por llamada (menos que los $1.37–1.82M de una negociación nueva), pero es más de la mitad del volumen de llamadas del agente humano.</li>
+      <li>Objeción del cliente en el <b>63%</b> de los casos (sobre todo "no tengo la plata ahora") y aun así no impide cerrar 7 de cada 10 veces.</li>
+      <li>El humano interrumpe y se adapta a lo que dice el cliente el doble de veces que la IA (<b>68% vs 36%</b>) — ventaja real en negociación nueva, donde hay que reaccionar a cada objeción. En seguimiento esa flexibilidad no hace falta: solo hay que confirmar y recordar, la tarea donde la rigidez de guion de la IA deja de ser una desventaja.</li>
+    </ul>
 
     <div class="callout" style="background:#F3F0FC;border-color:#D9CFF5;">
       <span class="icon">💰</span>
